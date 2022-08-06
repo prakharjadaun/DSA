@@ -14,3 +14,4 @@ This repository contains implementation of different data structures and their p
 <li> Deleting the first node. </li>
 <li> Deleting the middle node. </li>
 <li> Calculating the length of list using iteration and the recursion. </li>
+<li> Searching an item using iteration and recursion. </li>
