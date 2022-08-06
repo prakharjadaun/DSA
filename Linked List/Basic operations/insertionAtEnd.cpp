@@ -19,6 +19,7 @@ struct Node
 //globally initializing the head and the tail pointer
 struct Node *head=NULL,*tail=NULL;
 
+//inserting at the end
 void insert(int val)
 {
     cout<<"Inserting...."<<endl;
@@ -55,7 +56,7 @@ int main()
     while(flag)
     {
         cout<<"Choose an option : "<<endl;
-        cout<<"1. Insertion."<<endl;
+        cout<<"1. Insertion"<<endl;
         cout<<"2. Display"<<endl;
         cout<<"3. Exit"<<endl;
         cin>>n;
