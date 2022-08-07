@@ -24,5 +24,8 @@ This repository contains implementation of different data structures and their p
 - Get the Nth node from the last.
 - Detecting a loop in a linked list.
 - Detecting the length of loop in a linked list. (Using Floyd's Cycle detection algorithm)
+- Detect and remove loop from the linked list.
+- Check if single linked list is palindrome or not.
+- Removing Duplicate elements from unsorted linked list.
 
 </details>
