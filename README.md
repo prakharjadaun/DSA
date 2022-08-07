@@ -23,5 +23,6 @@ This repository contains implementation of different data structures and their p
 
 - Get the Nth node from the last.
 - Detecting a loop in a linked list.
+- Detecting the length of loop in a linked list. (Using Floyd's Cycle detection algorithm)
 
 </details>
