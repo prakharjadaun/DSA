@@ -4,21 +4,24 @@ This repository contains implementation of different data structures and their p
 
 ## **Linked List**
 
-### **1. Basic Programs**
+<details>
+<summary><b>1. Basic Programs</b></summary>
 
-<ul>
-<li> Insertion at the end.</li>
-<li> Insertion at the beginning. </li>
-<li> Insertion at the middle of the linked list. </li>
-<li> Deleting the last node. </li>
-<li> Deleting the first node. </li>
-<li> Deleting the middle node. </li>
-<li> Calculating the length of list using iteration and the recursion. </li>
-<li> Searching an item using iteration and recursion. </li>
-</ul>
+- Insertion at the end.
+- Insertion at the beginning.
+- Insertion at the middle of the linked list.
+- Deleting the last node.
+- Deleting the first node.
+- Deleting the middle node.
+- Calculating the length of list using iteration and the recursion.
+- Searching an item using iteration and recursion.
 
-### **2. Problems**
+</details>
 
-<ul>
-<li> Get the Nth node from the last. </li>
-</ul>
+<details>
+<summary><b>2. Problems</b></summary>
+
+- Get the Nth node from the last.
+- Detecting a loop in a linked list.
+
+</details>
