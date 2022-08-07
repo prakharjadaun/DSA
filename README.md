@@ -27,5 +27,6 @@ This repository contains implementation of different data structures and their p
 - Detect and remove loop from the linked list.
 - Check if single linked list is palindrome or not.
 - Removing Duplicate elements from unsorted linked list.
+- Swapping nodes in a linked list.
 
 </details>
