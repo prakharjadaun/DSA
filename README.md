@@ -15,8 +15,10 @@ This repository contains implementation of different data structures and their p
 <li> Deleting the middle node. </li>
 <li> Calculating the length of list using iteration and the recursion. </li>
 <li> Searching an item using iteration and recursion. </li>
-
+</ul>
 
 ### **2. Problems**
 
+<ul>
 <li> Get the Nth node from the last. </li>
+</ul>
