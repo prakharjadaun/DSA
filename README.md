@@ -57,3 +57,5 @@ This repository contains implementation of different data structures and their p
 - Find whether an array is a subset of another array
 - Union and Intersection of two linked list.
 - Given an array A[] and a number x, check for pair in A[] with sum as x
+- Minimum delete operations to make all elements of array same.
+- Minimum operations to make all elements equal in array.
