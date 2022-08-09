@@ -49,12 +49,12 @@ This repository contains implementation of different data structures and their p
 ## **Hash Table**
 
 <details>
-<summary>Basic Programs</summary>
+<summary><b>Basic Programs</b></summary>
 
 </details>
 
 <details>
-<summary>Problems</summary>
+<summary><b>Problems</b></summary>
 
 - Find whether an array is a subset of another array
 - Union and Intersection of two linked list.
