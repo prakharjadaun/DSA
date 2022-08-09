@@ -2,6 +2,8 @@
 
 This repository contains implementation of different data structures and their problems.
 
+---
+
 ## **Linked List**
 
 <details>
@@ -30,3 +32,28 @@ This repository contains implementation of different data structures and their p
 - Swapping nodes in a linked list.
 
 </details>
+
+---
+
+## **Queue**
+
+<details>
+<summary><b>1. Basic Program</b></summary>
+
+- Basic operations of queue
+
+</details>
+
+---
+
+## **Hash Table**
+
+<details>
+<summary>Basic Programs</summary>
+
+</details>
+
+<details>
+<summary>Problems</summary>
+
+- Find whether an array is a subset of another array
