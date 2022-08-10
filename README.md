@@ -62,3 +62,4 @@ This repository contains implementation of different data structures and their p
 - Maximum distance between two occurrences of same element in array
 - Find duplicates in a given array when elements are not limited to a range
 - Smallest subarray with all occurrences of a most frequent element.
+- Find elements which are present in first array and not in second array.
