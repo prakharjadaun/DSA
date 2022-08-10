@@ -60,3 +60,5 @@ This repository contains implementation of different data structures and their p
 - Minimum delete operations to make all elements of array same.
 - Minimum operations to make all elements equal in array.
 - Maximum distance between two occurrences of same element in array
+- Find duplicates in a given array when elements are not limited to a range
+- Smallest subarray with all occurrences of a most frequent element.
