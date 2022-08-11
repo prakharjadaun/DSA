@@ -31,8 +31,6 @@ This repository contains implementation of different data structures and their p
 
 </details>
 
----
-
 ## **Queue**
 
 <details>
@@ -41,8 +39,6 @@ This repository contains implementation of different data structures and their p
 - Basic operations of queue
 
 </details>
-
----
 
 ## **Hash Table**
 
