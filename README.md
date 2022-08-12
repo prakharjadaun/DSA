@@ -64,3 +64,4 @@ This repository contains implementation of different data structures and their p
 - Find missing elements of a range.
 - Find the kth missing element in increasing sequence which is not present in a given sequence
 - Find pair with greatest pair in array.
+- Minimum number of subsets with distinct elements
