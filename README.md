@@ -37,6 +37,7 @@ This repository contains implementation of different data structures and their p
 <summary><b>1. Basic Program</b></summary>
 
 - Basic operations of queue
+- Queue using stack.
 
 </details>
 
