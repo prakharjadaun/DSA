@@ -66,3 +66,4 @@ This repository contains implementation of different data structures and their p
 - Find pair with greatest pair in array.
 - Minimum number of subsets with distinct elements
 - Remove minimum number of elements such that no common element exist in both array.
+- Count items common to both the lists but with different prices.
