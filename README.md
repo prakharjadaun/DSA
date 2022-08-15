@@ -38,6 +38,7 @@ This repository contains implementation of different data structures and their p
 
 - Basic operations of queue
 - Queue using stack.
+- Priority Queue using STL
 
 </details>
 
