@@ -15,6 +15,7 @@ This repository contains implementation of different data structures and their p
 - Deleting the middle node.
 - Calculating the length of list using iteration and the recursion.
 - Searching an item using iteration and recursion.
+- Implementation of doubly linked list.
 
 </details>
 
