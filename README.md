@@ -29,6 +29,7 @@ This repository contains implementation of different data structures and their p
 - Check if single linked list is palindrome or not.
 - Removing Duplicate elements from unsorted linked list.
 - Swapping nodes in a linked list.
+- Merge two sorted linked list.
 
 </details>
 
@@ -71,3 +72,10 @@ This repository contains implementation of different data structures and their p
 - Minimum number of subsets with distinct elements
 - Remove minimum number of elements such that no common element exist in both array.
 - Count items common to both the lists but with different prices.
+
+</details>
+
+## **Stack**
+
+<details>
+<summary><b>Basic programs</b></summary>
