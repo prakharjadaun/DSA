@@ -10,7 +10,7 @@ int main()
     //initializing the stack
     stack<char>  s;
     //pushing all the characters into the stack
-    for(int i=0;i<str.length();i++)
+    for(int i=0;i<str.length();i++) 
     {
         s.push(str[i]);
     }
