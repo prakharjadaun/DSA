@@ -83,6 +83,7 @@ This repository contains implementation of different data structures and their p
 
 - Basic operations of stack.
 - Implementing stack using queues.
+- Reverse a string using stack.
 
 </details>
 
