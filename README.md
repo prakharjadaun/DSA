@@ -83,3 +83,10 @@ This repository contains implementation of different data structures and their p
 
 - Basic operations of stack.
 - Implementing stack using queues.
+
+</details>
+
+<details>
+<summary><b>Problems</b></summary>
+
+- Find the middle element of the stack in O(1) complexity.
