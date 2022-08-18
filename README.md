@@ -93,3 +93,16 @@ This repository contains implementation of different data structures and their p
 - Find the middle element of the stack in O(1) complexity.
 - Implement stack using a single queue.
 - Reverse individual words.
+
+</details>
+
+## **Sorting**
+
+<details>
+<summary><b>Types of Sorting Algo and their uses</b></summary>
+
+- Bubble Sort
+- Quick Sort
+- Merge Sort
+
+</details>
