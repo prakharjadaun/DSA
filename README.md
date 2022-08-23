@@ -118,3 +118,17 @@ This repository contains implementation of different data structures and their p
 - Binary Search
 
 </details>
+
+<details>
+<summary><b>Problems</b></summary>
+
+</details>
+
+## **Tree**
+
+<details>
+<summary><b>Basic Operations</b></summary>
+
+- Creation of Binary Tree
+
+</details>
