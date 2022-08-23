@@ -2,7 +2,7 @@
 
 This repository contains implementation of different data structures and their problems.
 
-## **Linked List**
+<h2 align="center"><b>Linked List</b></h2>
 
 <details>
 <summary><b>1. Basic Programs</b></summary>
