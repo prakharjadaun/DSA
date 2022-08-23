@@ -106,3 +106,14 @@ This repository contains implementation of different data structures and their p
 - Merge Sort
 
 </details>
+
+## **Recursion**
+
+<details>
+<summary><b>Basic Problems</b></summary>
+
+- Factorial using recursion
+- Print numbers 1 to N in backwards
+- Fibonacci Series
+
+</details>
