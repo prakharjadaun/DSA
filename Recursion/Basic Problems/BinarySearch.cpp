@@ -2,6 +2,12 @@
 #include<stdlib.h>                  //for malloc function
 using namespace std;
 
+//space complexity : O(1)
+//time complexity : O(log n)
+
+
+//boolean variable as to know if the element was found or not
+bool flag = false;
 //definition of the binary search function 
 void BinarySearch(int arr[],int beg,int end, int res)
 {
@@ -12,6 +18,7 @@ void BinarySearch(int arr[],int beg,int end, int res)
         if(arr[mid]==res)                   //if element found
         {
             cout<<"element found...!"<<endl;
+            flag = true;
             return;
         }
         else if(res < arr[mid])             //if the element we have to find is smaller than the middle element of the array or the subarray        
@@ -52,5 +59,9 @@ int main()
     cin>>temp;
     //calling the binary search function
     BinarySearch(arr,0,n-1,temp);
+    if(!flag)                       //if the element not found
+    {
+        cout<<"element not found...!"<<endl;
+    }
     return 0;
 }
