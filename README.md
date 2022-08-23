@@ -34,7 +34,7 @@ This repository contains implementation of different data structures and their p
 
 </details>
 
-## **Queue**
+<h2 align="center"><b>Queue</b></h2>
 
 <details>
 <summary><b>1. Basic Program</b></summary>
@@ -46,7 +46,7 @@ This repository contains implementation of different data structures and their p
 
 </details>
 
-## **Hash Table**
+<h2 align="center"><b>Hash Table</b></h2>
 
 <details>
 <summary><b>Basic Programs</b></summary>
@@ -76,7 +76,7 @@ This repository contains implementation of different data structures and their p
 
 </details>
 
-## **Stack**
+<h2 align="center"><b>Stack</b></h2>
 
 <details>
 <summary><b>Basic programs</b></summary>
@@ -96,7 +96,7 @@ This repository contains implementation of different data structures and their p
 
 </details>
 
-## **Sorting**
+<h2 align="center"><b>Sorting</b></h2>
 
 <details>
 <summary><b>Types of Sorting Algo and their uses</b></summary>
@@ -107,7 +107,7 @@ This repository contains implementation of different data structures and their p
 
 </details>
 
-## **Recursion**
+<h2 align="center"><b>Recursion</b></h2>
 
 <details>
 <summary><b>Basic Problems</b></summary>
@@ -124,7 +124,7 @@ This repository contains implementation of different data structures and their p
 
 </details>
 
-## **Tree**
+<h2 align="center"><b>Trees</b></h2>
 
 <details>
 <summary><b>Basic Operations</b></summary>
