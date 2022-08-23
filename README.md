@@ -115,5 +115,6 @@ This repository contains implementation of different data structures and their p
 - Factorial using recursion
 - Print numbers 1 to N in backwards
 - Fibonacci Series
+- Binary Search
 
 </details>
