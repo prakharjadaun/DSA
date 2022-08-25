@@ -41,6 +41,7 @@ struct Node* create()
     }
 }
 
+//display function to display the created binary tree
 void display(struct Node* root)
 {
     if(root==NULL)
