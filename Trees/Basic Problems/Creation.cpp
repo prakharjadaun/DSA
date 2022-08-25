@@ -45,7 +45,9 @@ void display(struct Node* root)
 {
     if(root==NULL)
     {
-        
+        cout<<root->data<<endl;
+        display(root->left);
+        display(root->right);
     }
 }
 
