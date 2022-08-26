@@ -44,7 +44,7 @@ struct Node* create()
 //display function to display the created binary tree
 void display(struct Node* root)
 {
-    if(root==NULL)
+    if(root!=NULL)
     {
         cout<<root->data<<endl;
         display(root->left);
@@ -56,4 +56,5 @@ int main()
 {
     struct Node *root = NULL;
     root = create();
+    display(root);
 }
