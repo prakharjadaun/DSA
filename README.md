@@ -22,6 +22,7 @@ This repository contains implementation of different data structures and their p
 <summary><b>Circular Linked List</b></summary>
 
 - Creating a circular linked list from scratch.
+- Inserting at end and beginning of the circular linked list
 
 </details>
 <details>
