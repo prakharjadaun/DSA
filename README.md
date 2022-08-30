@@ -18,7 +18,12 @@ This repository contains implementation of different data structures and their p
 - Implementation of doubly linked list.
 
 </details>
+<details>
+<summary><b>Circular Linked List</b></summary>
 
+- Creating a circular linked list from scratch.
+
+</details>
 <details>
 <summary><b>2. Problems</b></summary>
 
