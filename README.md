@@ -110,7 +110,7 @@ This repository contains implementation of different data structures and their p
 <h2 align="center"><b>Recursion</b></h2>
 
 <details>
-<summary><b>Basic Problems</b></summary>
+<summary><b>Basic Programs</b></summary>
 
 - Factorial using recursion
 - Print numbers 1 to N in backwards
