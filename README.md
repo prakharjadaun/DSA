@@ -23,6 +23,7 @@ This repository contains implementation of different data structures and their p
 
 - Creating a circular linked list from scratch.
 - Inserting at end and beginning of the circular linked list
+- Deleting the last and the first element of the circular linked list.
 
 </details>
 <details>
