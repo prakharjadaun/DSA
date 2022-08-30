@@ -72,6 +72,18 @@ void postorder(struct node *root)
     }
 }
 
+int NumberOfNodes(struct node *root)
+{
+    static int counter=0;
+    if(root)
+    {
+        NumberOfNodes(root->left);
+        NumberOfNodes(root->right);
+        counter++;
+    }
+    return counter;
+}
+
 int main()
 {
     struct node *root = NULL;
@@ -79,10 +91,11 @@ int main()
     cout<<"\n\nInorder Traversal"<<endl;
     Inorder(root);
 
-    cout<<"\n\nPreorder Traversal"<<endl;
-    Preorder(root);
+    // cout<<"\n\nPreorder Traversal"<<endl;
+    // Preorder(root);
 
-    cout<<"\n\nPostorder Traversal"<<endl;
-    postorder(root);
+    // cout<<"\n\nPostorder Traversal"<<endl;
+    // postorder(root);
+    cout<<"Number of nodes in the binary tree : "<<NumberOfNodes(root)<<endl;
     return 0;
 }
