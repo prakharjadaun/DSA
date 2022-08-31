@@ -5,7 +5,7 @@ This repository contains implementation of different data structures and their p
 <h2 align="center"><b>Linked List</b></h2>
 
 <details>
-<summary><b>1. Basic Programs</b></summary>
+<summary><b>Basic Programs</b></summary>
 
 - Insertion at the end.
 - Insertion at the beginning.
@@ -27,7 +27,7 @@ This repository contains implementation of different data structures and their p
 
 </details>
 <details>
-<summary><b>2. Problems</b></summary>
+<summary><b>Problems</b></summary>
 
 - Get the Nth node from the last.
 - Detecting a loop in a linked list.
@@ -44,7 +44,7 @@ This repository contains implementation of different data structures and their p
 <h2 align="center"><b>Queue</b></h2>
 
 <details>
-<summary><b>1. Basic Program</b></summary>
+<summary><b>Basic Program</b></summary>
 
 - Basic operations of queue
 - Queue using stack.
@@ -141,3 +141,4 @@ This repository contains implementation of different data structures and their p
 - Number of nodes in tree
 
 </details>
+S
