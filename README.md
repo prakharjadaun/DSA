@@ -38,6 +38,7 @@ This repository contains implementation of different data structures and their p
 - Swapping nodes in a linked list.
 - Merge two sorted linked list.
 - Add two numbers represented by linked list.
+- Rotate a linked list.
 
 </details>
 
