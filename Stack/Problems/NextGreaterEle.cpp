@@ -3,6 +3,7 @@
 #include<stack>
 using namespace std;
 
+//next Greater function to print the next greater element of the elements in the array
 void NextGreater(int v[], int n)
 {
     stack<int> s;
