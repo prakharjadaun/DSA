@@ -100,6 +100,7 @@ This repository contains implementation of different data structures and their p
 - Find the middle element of the stack in O(1) complexity.
 - Implement stack using a single queue.
 - Reverse individual words.
+- Next Greater Element
 
 </details>
 
@@ -141,4 +142,3 @@ This repository contains implementation of different data structures and their p
 - Number of nodes in tree
 
 </details>
-S
