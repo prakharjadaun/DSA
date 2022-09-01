@@ -142,5 +142,6 @@ This repository contains implementation of different data structures and their p
 - Traversal in trees : PreOrder, Inorder and Postorder
 - Number of nodes in tree
 - Level Order Traversal Using Queue
+- Preorder Traversal Without Recursion
 
 </details>
