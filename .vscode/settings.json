@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "valarray": "c",
+        "*.rmd": "markdown",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "array": "cpp"
+    }
+}
