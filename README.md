@@ -141,5 +141,6 @@ This repository contains implementation of different data structures and their p
 - Creation of Binary Tree
 - Traversal in trees : PreOrder, Inorder and Postorder
 - Number of nodes in tree
+- Level Order Traversal Using Queue
 
 </details>
