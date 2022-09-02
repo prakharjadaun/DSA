@@ -111,6 +111,7 @@ This repository contains implementation of different data structures and their p
 <summary><b>Types of Sorting Algo and their uses</b></summary>
 
 - Bubble Sort
+- Insertion Sort
 - Quick Sort
 - Merge Sort
 
