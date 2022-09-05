@@ -147,3 +147,10 @@ This repository contains implementation of different data structures and their p
 - Preorder Traversal Without Recursion
 
 </details>
+
+<details>
+<summary><b>Problems</b></summary>
+
+- Mirror of the tree
+
+</details>
