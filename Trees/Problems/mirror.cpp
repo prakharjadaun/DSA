@@ -1,7 +1,8 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<stdlib.h>
 using namespace std;
 
-//definning the structure of the node of a binary tree
+//definning the structure of the node of the binary tree
 struct node 
 {
     int data;
@@ -17,50 +18,50 @@ struct node
 //creating a binary tree using recursion
 struct node *create()
 {
-    struct node *root=NULL;
-    int n;
-    cout<<"Enter the data : ";
-    cin>>n;
-    if(n==-1)
+    int data;
+    cout<<"Enter data : ";
+    cin>>data;
+    if(data==-1)
     {
         return 0;
     }
     else
     {
-        root = new node(n);
-        cout<<"Enter the left of the "<<n<<" : ";
-        root->left = create();
-        cout<<"Enter the right of the "<<n<<" : ";
-        root->right = create();
-        return root;
+        struct node *temp = new node(data);
+        cout<<"Enter the left of "<<data<<" : ";
+        temp->left = create();
+        cout<<"Enter the rigt of "<<data<<" : ";
+        temp->right = create();
+        return temp;
     }
 }
 
-void display(struct node *root)
+//preorder traversal
+void Preorder(struct node *root)
 {
-    if(root==NULL)
-    return;
-    //inorder traversal
-    display(root->left);
-    cout<<root->data<<endl;
-    display(root->right);
+    if(root)
+    {
+        cout<<root->data<<endl;
+        Preorder(root->left);
+        Preorder(root->right);
+    }
 }
 
-//converting the tree to its mirror location
-void MirrorOfTree(struct node *root)
+//transforming the binary tree into the mirror of it
+void mirrorOfTree(struct node *root)
 {
-    if(root==NULL)
+    if(root)
     {
-        return;
-    }
-    else
-    {
-        struct node *temp;
-        MirrorOfTree(root->left);
-        MirrorOfTree(root->right);
+        struct node *temp=NULL;
+        mirrorOfTree(root->left);
+        mirrorOfTree(root->right);
         temp = root->left;
         root->left = root->right;
         root->right = temp;
+    }
+    else
+    {
+        return;
     }
 }
 
@@ -68,9 +69,12 @@ void MirrorOfTree(struct node *root)
 int main()
 {
     struct node *root= NULL;
-    root = create();
-    display(root);
-    MirrorOfTree(root);
-    display(root);
+    root= create();
+    cout<<"\nPreorder Traversal : "<<endl;
+    Preorder(root);
+    cout<<"\nMirroring the binary tree.....!"<<endl;
+    mirrorOfTree(root);
+    cout<<"\nPreorder Traversal : "<<endl;
+    Preorder(root);
     return 0;
 }
