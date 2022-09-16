@@ -152,5 +152,6 @@ This repository contains implementation of different data structures and their p
 
 - Mirror of the tree
 - Preorder Traversal Without Recursion
+- Find the maximum element of the binary tree
 
 </details>
