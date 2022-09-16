@@ -145,6 +145,7 @@ This repository contains implementation of different data structures and their p
 - Number of nodes in tree
 - Level Order Traversal Using Queue
 - Deleting a binary tree
+- Compute the height of the binary tree using recursion.
 
 </details>
 
