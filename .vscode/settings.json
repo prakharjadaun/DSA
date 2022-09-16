@@ -5,6 +5,7 @@
         "*.rmd": "markdown",
         "iostream": "cpp",
         "*.tcc": "cpp",
-        "array": "cpp"
+        "array": "cpp",
+        "new": "cpp"
     }
 }
