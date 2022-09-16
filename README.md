@@ -155,5 +155,6 @@ This repository contains implementation of different data structures and their p
 - Find the maximum element of the binary tree using recursion
 - Find the maximum element of the bianry tree without recursion
 - Algorithm to search an element in a bianry tree
+- Algorithm to search an element in a binary tree without recursion
 
 </details>
