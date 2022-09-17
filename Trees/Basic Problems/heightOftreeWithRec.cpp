@@ -52,7 +52,7 @@ void display(struct node *root)
 
 //time complexity : O(N)
 //space complexity : O(N)
-//computing the height of the tree using recursion
+//computing the height of the tree wihtout recursion
 int height(struct node *root)
 {
     queue<struct node *> q;
