@@ -113,7 +113,6 @@ This repository contains implementation of different data structures and their p
 
 - Bubble Sort
 - Insertion Sort
-- Quick Sort
 
 </details>
 
