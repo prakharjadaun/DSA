@@ -66,6 +66,7 @@ void LevelOrder(struct node *root)
     }
 }
 
+//function to count the number of leaf nodes in a binary tree
 int LeafNodes(struct node *root)
 {
     if(!root)
@@ -92,6 +93,7 @@ int LeafNodes(struct node *root)
     }
     return leaves;
 }
+//we can use the similar logic to find the half nodes and the full nodes in a binary tree
 
 //main function
 int main()
