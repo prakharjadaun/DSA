@@ -160,5 +160,6 @@ This repository contains implementation of different data structures and their p
 - Algorithm to search an element in a binary tree without recursion
 - Finding the deepest node in a binary tree.
 - Deletion in binary tree
+- Check if two binary trees are structurally identical.
 
 </details>
