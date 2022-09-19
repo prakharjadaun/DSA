@@ -145,6 +145,7 @@ This repository contains implementation of different data structures and their p
 - Deleting a binary tree
 - Compute the height of the binary tree using recursion.
 - Compute the height of the binary tree without recursion.
+- Number of leaf nodes in a binary tree.
   
 </details>
 
