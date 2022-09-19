@@ -1,41 +1,101 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<stdlib.h>
+#include<algorithm>
+#include<climits>
+#include<queue>
+#include<stack>
 using namespace std;
 
-//definning the structure of the node of a binary tree
-struct Node
+//definning the structure of the node of the binary tree
+struct node 
 {
     int data;
-    struct Node *left,*right;
+    struct node *left,*right;
+    node(int val)
+    {
+        data = val;
+        left = NULL;
+        right = NULL;
+    }
 };
 
-vector<int> reverseLevelOrder(struct Node *root)
+//creating a binary tree using recursion
+struct node *create()
 {
-    // code here
-    stack<struct Node *> s;
-    queue<struct Node *> q;
+    int data;
+    cout<<"Enter data : ";
+    cin>>data;
+    if(data==-1)
+    {
+        return 0;
+    }
+    else
+    {
+        struct node *temp = new node(data);
+        cout<<"Enter the left of "<<data<<" : ";
+        temp->left = create();
+        cout<<"Enter the rigt of "<<data<<" : ";
+        temp->right = create();
+        return temp;
+    }
+}
+
+//preorder traversal
+void display(struct node *root)
+{
+    if(root)
+    {
+        cout<<root->data<<endl;
+        display(root->left);
+        display(root->right);
+    }
+}
+
+//time complexity : O(n)
+//space complexity : O(n)
+void ReverseLevelOrder(struct node *root)
+{
+    if(root==NULL)
+    {
+        cout<<"Binary Tree is empty....!"<<endl;
+        return;
+    }
+
+    queue<struct node *> q;
+    stack<struct node *> s;
+    struct node *temp = NULL;
     q.push(root);
-    struct Node *temp = NULL;
-    while(q.empty()==false)
+    while(!q.empty())
     {
         temp = q.front();
-        s.push(temp);
         q.pop();
-        
+
         if(temp->right)
             q.push(temp->right);
-        
         if(temp->left)
             q.push(temp->left);
-        
+        s.push(temp);
     }
-    
-    vector<int> v;
-    while(s.empty()==false)
+
+    //stack contains the nodes in the reverse level order
+    //emptying the stack
+    while(!s.empty())
     {
         temp = s.top();
+        cout<<temp->data<<endl;
         s.pop();
-        v.push_back(temp->data);
     }
-    
-    return v;
+}
+
+
+//main function
+int main()
+{
+    struct node *root = NULL;
+    int temp;
+    root = create();
+    display(root);
+    cout<<"\n\nReverse Level Order Traversal"<<endl;
+    ReverseLevelOrder(root);   
+    return 0;
 }
