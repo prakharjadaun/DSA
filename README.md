@@ -162,5 +162,6 @@ This repository contains implementation of different data structures and their p
 - Deletion in binary tree
 - Check if two binary trees are structurally identical.
 - Find level with max sum
+- Find the sum of all the nodes in a binary tree.
 
 </details>
