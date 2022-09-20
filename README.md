@@ -163,5 +163,6 @@ This repository contains implementation of different data structures and their p
 - Check if two binary trees are structurally identical.
 - Find level with max sum
 - Find the sum of all the nodes in a binary tree.
-
+- Check if two binary trees are mirror of each other
+  
 </details>
