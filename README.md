@@ -152,18 +152,18 @@ This repository contains implementation of different data structures and their p
 <details>
 <summary><b>Problems</b></summary>
 
-- Mirror of the tree
-- Preorder Traversal Without Recursion
-- Find the maximum element of the binary tree using recursion
-- Find the maximum element of the bianry tree without recursion
-- Algorithm to search an element in a bianry tree
-- Algorithm to search an element in a binary tree without recursion
+- Mirror of the tree.
+- Preorder Traversal Without Recursion.
+- Find the maximum element of the binary tree using recursion.
+- Find the maximum element of the bianry tree without recursion.
+- Algorithm to search an element in a bianry tree.
+- Algorithm to search an element in a binary tree without recursion.
 - Finding the deepest node in a binary tree.
-- Deletion in binary tree
+- Deletion in binary tree.
 - Check if two binary trees are structurally identical.
-- Find level with max sum
+- Find level with max sum.
 - Find the sum of all the nodes in a binary tree.
-- Check if two binary trees are mirror of each other
-- Print All Ancestors of a node
+- Check if two binary trees are mirror of each other.
+- Print All Ancestors of a node.
   
 </details>
