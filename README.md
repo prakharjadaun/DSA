@@ -131,6 +131,8 @@ This repository contains implementation of different data structures and their p
 <details>
 <summary><b>Problems</b></summary>
 
+- N Queens problem
+
 </details>
 
 <h2 align="center"><b>Trees</b></h2>
