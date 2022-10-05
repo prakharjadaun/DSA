@@ -4,8 +4,7 @@ This repository contains implementation of different data structures and their p
 
 <h2 align="center"><b>Linked List</b></h2>
 
-<details>
-<summary><b>Basic Programs</b></summary>
+#### **Basic Programs**
 
 - Insertion at the end.
 - Insertion at the beginning.
@@ -17,17 +16,13 @@ This repository contains implementation of different data structures and their p
 - Searching an item using iteration and recursion.
 - Implementation of doubly linked list.
 
-</details>
-<details>
-<summary><b>Circular Linked List</b></summary>
+#### **Circular Linked List**
 
 - Creating a circular linked list from scratch.
 - Inserting at end and beginning of the circular linked list
 - Deleting the last and the first element of the circular linked list.
 
-</details>
-<details>
-<summary><b>Problems</b></summary>
+#### **Problems**
 
 - Get the Nth node from the last.
 - Detecting a loop in a linked list.
@@ -41,12 +36,9 @@ This repository contains implementation of different data structures and their p
 - Rotate a linked list.
 - Find the nth node of the linked list from the end.
 
-</details>
-
 <h2 align="center"><b>Queue</b></h2>
 
-<details>
-<summary><b>Basic Program</b></summary>
+#### **Basic Program**
 
 - Basic operations of queue
 - Queue using stack.
@@ -57,13 +49,7 @@ This repository contains implementation of different data structures and their p
 
 <h2 align="center"><b>Hash Table</b></h2>
 
-<details>
-<summary><b>Basic Programs</b></summary>
-
-</details>
-
-<details>
-<summary><b>Problems</b></summary>
+#### **Problems**
 
 - Find whether an array is a subset of another array
 - Union and Intersection of two linked list.
@@ -83,33 +69,24 @@ This repository contains implementation of different data structures and their p
 - Remove minimum number of elements such that no common element exist in both array.
 - Count items common to both the lists but with different prices.
 
-</details>
-
 <h2 align="center"><b>Stack</b></h2>
 
-<details>
-<summary><b>Basic programs</b></summary>
+#### **Basic programs**
 
 - Basic operations of stack.
 - Implementing stack using queues.
 - Reverse a string using stack.
 
-</details>
-
-<details>
-<summary><b>Problems</b></summary>
+#### **Problems**
 
 - Find the middle element of the stack in O(1) complexity.
 - Implement stack using a single queue.
 - Reverse individual words.
 - Next Greater Element
 
-</details>
-
 <h2 align="center"><b>Sorting</b></h2>
 
-<details>
-<summary><b>Types of Sorting Algo and their uses</b></summary>
+#### **Types of Sorting Algo and their uses**
 
 - Bubble Sort
 - Insertion Sort
@@ -118,27 +95,20 @@ This repository contains implementation of different data structures and their p
 
 <h2 align="center"><b>Recursion</b></h2>
 
-<details>
-<summary><b>Basic Programs</b></summary>
+#### **Basic Programs**
 
 - Factorial using recursion
 - Print numbers 1 to N in backwards
 - Fibonacci Series
 - Binary Search
 
-</details>
-
-<details>
-<summary><b>Problems</b></summary>
+#### **Problems**
 
 - N Queens problem.
 
-</details>
-
 <h2 align="center"><b>Trees</b></h2>
 
-<details>
-<summary><b>Basic Operations</b></summary>
+#### **Basic Operations**
 
 - Creation of Binary Tree
 - Traversal in trees : PreOrder, Inorder and Postorder
@@ -149,10 +119,7 @@ This repository contains implementation of different data structures and their p
 - Compute the height of the binary tree without recursion.
 - Number of leaf nodes in a binary tree.
   
-</details>
-
-<details>
-<summary><b>Problems</b></summary>
+#### **Problems**
 
 - Mirror of the tree.
 - Preorder Traversal Without Recursion.
@@ -167,5 +134,3 @@ This repository contains implementation of different data structures and their p
 - Find the sum of all the nodes in a binary tree.
 - Check if two binary trees are mirror of each other.
 - Print All Ancestors of a node.
-  
-</details>
