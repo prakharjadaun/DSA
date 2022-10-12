@@ -6,7 +6,8 @@ This repository contains implementation of different data structures and their p
 
 #### **Basic Programs**
 
-- Reverse an array
+- Reverse an array.
+- Maximum and minimum element in the array.
 
 <h2 align="center"><b>Linked List</b></h2>
 
