@@ -8,6 +8,7 @@ This repository contains implementation of different data structures and their p
 
 - Reverse an array.
 - Maximum and minimum element in the array.
+- Kth Smallest Element of Array
 
 <h2 align="center"><b>Linked List</b></h2>
 
