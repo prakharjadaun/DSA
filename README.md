@@ -9,6 +9,7 @@ This repository contains implementation of different data structures and their p
 - Reverse an array.
 - Maximum and minimum element in the array.
 - Kth Smallest Element of Array
+- Sort an array of 0s, 1s and 2s
 
 <h2 align="center"><b>Linked List</b></h2>
 
