@@ -2,6 +2,12 @@
 
 This repository contains implementation of different data structures and their problems.
 
+<h2 align="center"><b>Arrays</b></h2>
+
+#### **Basic Programs**
+
+- Reverse an array
+
 <h2 align="center"><b>Linked List</b></h2>
 
 #### **Basic Programs**
