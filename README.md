@@ -12,6 +12,7 @@ This repository contains implementation of different data structures and their p
 - Sort an array of 0s, 1s and 2s
 - Move all negative numbers to beginning and positive to end.
 - Find the count of union of the two arrays
+- Rotate an array by 1 in the clockwise direction
 
 <h2 align="center"><b>Linked List</b></h2>
 
