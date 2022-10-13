@@ -11,6 +11,7 @@ This repository contains implementation of different data structures and their p
 - Kth Smallest Element of Array
 - Sort an array of 0s, 1s and 2s
 - Move all negative numbers to beginning and positive to end.
+- Find the count of union of the two arrays
 
 <h2 align="center"><b>Linked List</b></h2>
 
