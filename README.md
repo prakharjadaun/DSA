@@ -14,6 +14,10 @@ This repository contains implementation of different data structures and their p
 - Find the count of union of the two arrays
 - Rotate an array by 1 in the clockwise direction
 
+#### **Problems**
+
+- Largest Sum Contiguous Subarray (Kadane’s Algorithm)
+
 <h2 align="center"><b>Linked List</b></h2>
 
 #### **Basic Programs**
