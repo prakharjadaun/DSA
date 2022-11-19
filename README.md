@@ -99,6 +99,7 @@ This repository contains implementation of different data structures and their p
 - Implement stack using a single queue.
 - Reverse individual words.
 - Next Greater Element
+- Valid parenthesis
 
 <h2 align="center"><b>Sorting</b></h2>
 
