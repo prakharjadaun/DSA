@@ -123,7 +123,7 @@ This repository contains implementation of different data structures and their p
 
 - N Queens problem.
 
-<h2 align="center"><b>Trees</b></h2>
+<h2 align="center"><b>Binary Tree</b></h2>
 
 #### **Basic Operations**
 
@@ -152,3 +152,9 @@ This repository contains implementation of different data structures and their p
 - Check if two binary trees are mirror of each other.
 - Print All Ancestors of a node.
 - Print right view of the tree using level order traversal
+
+<h2 align="center"><b>Binary Search Tree</b></h2>
+
+#### **Basic Operations**
+
+- Creating a binary search tree.
