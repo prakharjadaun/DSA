@@ -159,3 +159,5 @@ This repository contains implementation of different data structures and their p
 
 - Creating a binary search tree.
 - Find the maximum and the minimum element of the binary search tree
+- Searching in the binary search tree
+  
