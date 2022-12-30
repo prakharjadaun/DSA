@@ -32,6 +32,8 @@ struct node *insert(struct node *root, int val)
     return root;
 }
 
+//if a BST is a complete tree then time complexity becomes O(lg n)
+
 //function to traverse the binary search tree
 //inorder traversal gives the sorted element in the output
 void InorderTraversal(struct node *root)
@@ -44,7 +46,9 @@ void InorderTraversal(struct node *root)
     }
 }
 
-//function to print the maximum element of the binary search tree
+//function to print the maximum element of the binary search 
+//In BST, the maximum element is the rightmost element of the BST which has no right child
+//time complexity : O(n) in worst case if the BST is a right skew tree
 void MaxElementOfTree(struct node *root)
 {
     if(root==NULL)
@@ -62,6 +66,8 @@ void MaxElementOfTree(struct node *root)
 }
 
 //function to find the minimum element of the binary search tree
+//In BST, the minimum element is the left most element of the BST which has no left child
+//time complexity : O(n) in worst case when BST is a left skew tree
 void MinElementOfTree(struct node *root)
 {
     if(root==NULL)

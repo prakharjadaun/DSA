@@ -84,6 +84,7 @@ This repository contains implementation of different data structures and their p
 - Minimum number of subsets with distinct elements
 - Remove minimum number of elements such that no common element exist in both array.
 - Count items common to both the lists but with different prices.
+- Ransom Note : check whether string 1 can be constructed from string 2
 
 <h2 align="center"><b>Stack</b></h2>
 
@@ -160,4 +161,4 @@ This repository contains implementation of different data structures and their p
 - Creating a binary search tree.
 - Find the maximum and the minimum element of the binary search tree
 - Searching in the binary search tree
-  
+- Printing the InOrder Predecessor and Successor of an element.
