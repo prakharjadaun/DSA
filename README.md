@@ -53,6 +53,7 @@ This repository contains implementation of different data structures and their p
 - Add two numbers represented by linked list.
 - Rotate a linked list.
 - Find the nth node of the linked list from the end.
+- Convert binary number in a linked list to an integer.
 
 <h2 align="center"><b>Queue</b></h2>
 
