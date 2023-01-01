@@ -17,6 +17,7 @@ This repository contains implementation of different data structures and their p
 #### **Problems**
 
 - Largest Sum Contiguous Subarray (Kadane’s Algorithm)
+- Difference of two arrays
 
 <h2 align="center"><b>Linked List</b></h2>
 
