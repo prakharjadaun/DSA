@@ -170,3 +170,4 @@ This repository contains implementation of different data structures and their p
 
 - [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
 - [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+- [Kth Smallest element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
