@@ -165,3 +165,7 @@ This repository contains implementation of different data structures and their p
 - Find the maximum and the minimum element of the binary search tree
 - Searching in the binary search tree
 - Printing the InOrder Predecessor and Successor of an element.
+
+#### **Problems**
+
+- [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
