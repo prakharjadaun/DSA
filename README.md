@@ -172,3 +172,4 @@ This repository contains implementation of different data structures and their p
 - [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [Kth Smallest element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
 - [Mode in BST](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/)
+- [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)
