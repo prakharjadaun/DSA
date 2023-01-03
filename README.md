@@ -173,3 +173,4 @@ This repository contains implementation of different data structures and their p
 - [Kth Smallest element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
 - [Mode in BST](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/)
 - [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)
+- [Combining elements of two BST in ascending order](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
