@@ -24,6 +24,7 @@ This repository contains implementation of different data structures and their p
 - [Palindrome](https://leetcode.com/problems/palindrome-number/description/)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 - [Length of last word](https://leetcode.com/problems/length-of-last-word/description/)
+- [Plus One (adding one to an array representing a large number)](https://leetcode.com/problems/plus-one/description/)
 
 <h2 align="center"><b>Linked List</b></h2>
 
