@@ -26,6 +26,7 @@ This repository contains implementation of different data structures and their p
 - [Length of last word](https://leetcode.com/problems/length-of-last-word/description/)
 - [Plus One (adding one to an array representing a large number)](https://leetcode.com/problems/plus-one/description/)
 - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+- [Valind Palindrome String](https://leetcode.com/problems/valid-palindrome/description/)
 
 <h2 align="center"><b>Linked List</b></h2>
 
