@@ -16,6 +16,8 @@ class Solution
 public:
     //approach : inorder traversal without recursion 
     // keep on adding elements when you encounter the value inclusive in high and low
+    //time complexity : O(n)
+    // space complexity : O(1)
     int rangeSumBST(TreeNode *root, int low, int high)
     {
         TreeNode *curr = root;

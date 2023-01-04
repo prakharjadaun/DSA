@@ -19,6 +19,7 @@ This repository contains implementation of different data structures and their p
 - Largest Sum Contiguous Subarray (Kadane’s Algorithm)
 - Difference of two arrays
 - Intersection of two arrays
+- [3 Sum](https://leetcode.com/problems/3sum/description/)
 
 <h2 align="center"><b>Linked List</b></h2>
 
