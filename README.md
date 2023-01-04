@@ -23,6 +23,7 @@ This repository contains implementation of different data structures and their p
 - [2 Sum](https://leetcode.com/problems/two-sum/description/)
 - [Palindrome](https://leetcode.com/problems/palindrome-number/description/)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+- [Length of last word](https://leetcode.com/problems/length-of-last-word/description/)
 
 <h2 align="center"><b>Linked List</b></h2>
 
