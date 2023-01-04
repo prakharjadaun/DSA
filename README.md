@@ -21,6 +21,7 @@ This repository contains implementation of different data structures and their p
 - Intersection of two arrays
 - [3 Sum](https://leetcode.com/problems/3sum/description/)
 - [2 Sum](https://leetcode.com/problems/two-sum/description/)
+- [Palindrome](https://leetcode.com/problems/palindrome-number/description/)
 
 <h2 align="center"><b>Linked List</b></h2>
 
