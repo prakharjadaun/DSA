@@ -37,7 +37,8 @@ This repository contains implementation of different data structures and their p
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
 - Understanding Bitwise operators
-- [Single Number](https://leetcode.com/problems/single-number/description/)
+- [Find the number that appears once.](https://leetcode.com/problems/single-number/description/)
+- [Detect if two integers have opposite signs](https://www.geeksforgeeks.org/detect-if-two-integers-have-opposite-signs/)
 
 <h2 align="center"><b>Linked List</b></h2>
 
