@@ -41,6 +41,7 @@ This repository contains implementation of different data structures and their p
 - [Detect if two integers have opposite signs](https://www.geeksforgeeks.org/detect-if-two-integers-have-opposite-signs/)
 - [Add 1 to a number when all the arithmetic operators are not allowed](https://www.geeksforgeeks.org/add-1-to-a-given-number/)
 - [Mutliply with 3.5 without 'x' and '/' operator](https://www.geeksforgeeks.org/multiply-an-integer-with-3-5/)
+- [Turn off the rightmost set bit](https://www.geeksforgeeks.org/turn-off-the-rightmost-set-bit/)
 
 <h2 align="center"><b>Linked List</b></h2>
 
