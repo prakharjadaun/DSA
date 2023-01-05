@@ -27,6 +27,7 @@ This repository contains implementation of different data structures and their p
 - [Plus One (adding one to an array representing a large number)](https://leetcode.com/problems/plus-one/description/)
 - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - [Valid Palindrome String](https://leetcode.com/problems/valid-palindrome/description/)
+- [Middle Of Threee](https://practice.geeksforgeeks.org/problems/middle-of-three2926/1?page=1&category[]=Numbers&sortBy=submissions)
 
 <h2 align="center"><b>Strings</b></h2>
 
