@@ -28,9 +28,13 @@ This repository contains implementation of different data structures and their p
 - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - [Valid Palindrome String](https://leetcode.com/problems/valid-palindrome/description/)
 
-<h2 align="center"><b>Binary Search Tree</b></h2>
+<h2 align="center"><b>Strings</b></h2>
 
 - [Add Binary](https://leetcode.com/problems/add-binary/description/)
+
+<h2 align="center"><b>Bitwise Operations</b></h2>
+
+- [Single Number](https://leetcode.com/problems/single-number/description/)
 
 <h2 align="center"><b>Linked List</b></h2>
 
