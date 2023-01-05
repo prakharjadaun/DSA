@@ -26,7 +26,11 @@ This repository contains implementation of different data structures and their p
 - [Length of last word](https://leetcode.com/problems/length-of-last-word/description/)
 - [Plus One (adding one to an array representing a large number)](https://leetcode.com/problems/plus-one/description/)
 - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
-- [Valind Palindrome String](https://leetcode.com/problems/valid-palindrome/description/)
+- [Valid Palindrome String](https://leetcode.com/problems/valid-palindrome/description/)
+
+<h2 align="center"><b>Binary Search Tree</b></h2>
+
+- [Add Binary](https://leetcode.com/problems/add-binary/description/)
 
 <h2 align="center"><b>Linked List</b></h2>
 
@@ -184,4 +188,3 @@ This repository contains implementation of different data structures and their p
 - [Combining elements of two BST in ascending order](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
 - [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)
 - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
-
