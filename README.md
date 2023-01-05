@@ -36,6 +36,7 @@ This repository contains implementation of different data structures and their p
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
+- Understanding Bitwise operators
 - [Single Number](https://leetcode.com/problems/single-number/description/)
 
 <h2 align="center"><b>Linked List</b></h2>
