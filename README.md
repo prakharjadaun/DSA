@@ -42,6 +42,7 @@ This repository contains implementation of different data structures and their p
 - [Add 1 to a number when all the arithmetic operators are not allowed](https://www.geeksforgeeks.org/add-1-to-a-given-number/)
 - [Mutliply with 3.5 without 'x' and '/' operator](https://www.geeksforgeeks.org/multiply-an-integer-with-3-5/)
 - [Turn off the rightmost set bit](https://www.geeksforgeeks.org/turn-off-the-rightmost-set-bit/)
+- [Find whether a given number is a power of 4 or not](https://www.geeksforgeeks.org/find-whether-a-given-number-is-a-power-of-4-or-not/#discuss)
 
 <h2 align="center"><b>Linked List</b></h2>
 
