@@ -39,6 +39,7 @@ This repository contains implementation of different data structures and their p
 - Understanding Bitwise operators
 - [Find the number that appears once.](https://leetcode.com/problems/single-number/description/)
 - [Detect if two integers have opposite signs](https://www.geeksforgeeks.org/detect-if-two-integers-have-opposite-signs/)
+- [Add 1 to a number when all the arithmetic operators are not allowed](https://www.geeksforgeeks.org/add-1-to-a-given-number/)
 
 <h2 align="center"><b>Linked List</b></h2>
 
