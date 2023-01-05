@@ -43,6 +43,7 @@ This repository contains implementation of different data structures and their p
 - [Mutliply with 3.5 without 'x' and '/' operator](https://www.geeksforgeeks.org/multiply-an-integer-with-3-5/)
 - [Turn off the rightmost set bit](https://www.geeksforgeeks.org/turn-off-the-rightmost-set-bit/)
 - [Find whether a given number is a power of 4 or not](https://www.geeksforgeeks.org/find-whether-a-given-number-is-a-power-of-4-or-not/#discuss)
+- [Compute modulus division by a power-of-2-number](https://www.geeksforgeeks.org/compute-modulus-division-by-a-power-of-2-number/)
 
 <h2 align="center"><b>Linked List</b></h2>
 
