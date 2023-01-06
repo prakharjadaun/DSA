@@ -34,6 +34,7 @@ This repository contains implementation of different data structures and their p
 <h2 align="center"><b>Strings</b></h2>
 
 - [Add Binary](https://leetcode.com/problems/add-binary/description/)
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
