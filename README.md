@@ -30,6 +30,7 @@ This repository contains implementation of different data structures and their p
 - [Valid Palindrome String](https://leetcode.com/problems/valid-palindrome/description/)
 - [Middle Of Threee](https://practice.geeksforgeeks.org/problems/middle-of-three2926/1?page=1&category[]=Numbers&sortBy=submissions)
 - [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+- [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
