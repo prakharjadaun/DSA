@@ -53,6 +53,7 @@ This repository contains implementation of different data structures and their p
 - [Party of couples (Find number with odd frequency)](https://practice.geeksforgeeks.org/problems/alone-in-couple5507/1)
 - [Check for Integer Overflow](https://www.geeksforgeeks.org/check-for-integer-overflow/)
 - [Count bit flips(Number of bits to be changed to convert one number to another)](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1)
+- [Efficient way to multiply by 7](https://www.geeksforgeeks.org/efficient-way-to-multiply-with-7/)
 
 <h2 align="center"><b>Linked List</b></h2>
 
