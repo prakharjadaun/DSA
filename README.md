@@ -46,6 +46,7 @@ This repository contains implementation of different data structures and their p
 - [Compute modulus division by a power-of-2-number](https://www.geeksforgeeks.org/compute-modulus-division-by-a-power-of-2-number/)
 - [Rotate Bits](https://practice.geeksforgeeks.org/problems/rotate-bits4524/1?utm_source=gfg)
 - [Hamming weights (Number of 1 bits)](https://leetcode.com/problems/number-of-1-bits/description/)
+- [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
 
 <h2 align="center"><b>Linked List</b></h2>
 
