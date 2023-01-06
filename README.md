@@ -50,6 +50,7 @@ This repository contains implementation of different data structures and their p
 - [Power Of two](https://leetcode.com/problems/power-of-two/description/)
 - [Bitwise & of numbers in range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
 - [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [Party of couples (Find number with odd frequency)](https://practice.geeksforgeeks.org/problems/alone-in-couple5507/1)
 
 <h2 align="center"><b>Linked List</b></h2>
 
