@@ -49,6 +49,7 @@ This repository contains implementation of different data structures and their p
 - [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
 - [Power Of two](https://leetcode.com/problems/power-of-two/description/)
 - [Bitwise & of numbers in range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
+- [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)
 
 <h2 align="center"><b>Linked List</b></h2>
 
