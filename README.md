@@ -48,6 +48,7 @@ This repository contains implementation of different data structures and their p
 - [Hamming weights (Number of 1 bits)](https://leetcode.com/problems/number-of-1-bits/description/)
 - [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
 - [Power Of two](https://leetcode.com/problems/power-of-two/description/)
+- [Bitwise & of numbers in range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)
 
 <h2 align="center"><b>Linked List</b></h2>
 
