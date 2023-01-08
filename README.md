@@ -13,6 +13,7 @@ This repository contains implementation of different data structures and their p
 - Move all negative numbers to beginning and positive to end.
 - Find the count of union of the two arrays
 - Rotate an array by 1 in the clockwise direction
+- Print all permutations of array
 
 #### **Problems**
 
