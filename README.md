@@ -37,6 +37,7 @@ This repository contains implementation of different data structures and their p
 
 - [Add Binary](https://leetcode.com/problems/add-binary/description/)
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+- [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
