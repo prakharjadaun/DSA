@@ -201,6 +201,7 @@ This repository contains implementation of different data structures and their p
 - Print All Ancestors of a node.
 - Print right view of the tree using level order traversal
 - [Zigzag level order traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
+- [Flatten binary tree to linked list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
 
 <h2 align="center"><b>Binary Search Tree</b></h2>
 
