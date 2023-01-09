@@ -202,6 +202,7 @@ This repository contains implementation of different data structures and their p
 - Print right view of the tree using level order traversal
 - [Zigzag level order traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
 - [Flatten binary tree to linked list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
+- [Construct string from binary tree(Parethesis)](https://leetcode.com/problems/construct-string-from-binary-tree/description/)
 
 <h2 align="center"><b>Binary Search Tree</b></h2>
 
