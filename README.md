@@ -199,6 +199,7 @@ This repository contains implementation of different data structures and their p
 - Check if two binary trees are mirror of each other.
 - Print All Ancestors of a node.
 - Print right view of the tree using level order traversal
+- [Zigzag level order traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
 
 <h2 align="center"><b>Binary Search Tree</b></h2>
 
