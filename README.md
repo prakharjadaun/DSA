@@ -33,6 +33,7 @@ This repository contains implementation of different data structures and their p
 - [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 - [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
 - [Remove element](https://leetcode.com/problems/remove-element/description/)
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
