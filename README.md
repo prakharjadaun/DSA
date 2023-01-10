@@ -36,6 +36,7 @@ This repository contains implementation of different data structures and their p
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - [3 sum closest](https://leetcode.com/problems/3sum-closest/description/)
 - [Word Pattern](https://leetcode.com/problems/word-pattern/description/)
+- [Sort Colors](https://leetcode.com/problems/sort-colors/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
