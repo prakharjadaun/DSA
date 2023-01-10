@@ -38,6 +38,7 @@ This repository contains implementation of different data structures and their p
 - [Word Pattern](https://leetcode.com/problems/word-pattern/description/)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/description/)
 - [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
+- [Shuffle the array](https://leetcode.com/problems/shuffle-the-array/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
