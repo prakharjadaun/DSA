@@ -34,6 +34,7 @@ This repository contains implementation of different data structures and their p
 - [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
 - [Remove element](https://leetcode.com/problems/remove-element/description/)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+- [3 sum closest](https://leetcode.com/problems/3sum-closest/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
