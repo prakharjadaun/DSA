@@ -16,6 +16,7 @@ This repository contains implementation of different data structures and their p
 - Print all permutations of array
 - [Kids with the greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
 - [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/)
+- [Decompress run length encoded list](https://leetcode.com/problems/decompress-run-length-encoded-list/description/)
 
 #### **Problems**
 
