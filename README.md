@@ -161,6 +161,10 @@ This repository contains implementation of different data structures and their p
 - Bubble Sort
 - Insertion Sort
 
+#### **Problems**
+
+- [Smaller number than current](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
+
 </details>
 
 <h2 align="center"><b>Recursion</b></h2>
