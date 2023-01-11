@@ -40,6 +40,7 @@ This repository contains implementation of different data structures and their p
 - [Sort Colors](https://leetcode.com/problems/sort-colors/description/)
 - [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
 - [Shuffle the array](https://leetcode.com/problems/shuffle-the-array/description/)
+- [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
