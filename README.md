@@ -21,6 +21,7 @@ This repository contains implementation of different data structures and their p
 - [Widest vertical area between two points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/)
 - [Rearranging the array elements by sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
 - [Largest Altitude of biker](https://leetcode.com/problems/find-the-highest-altitude/description/)
+- [Count Number of Distinct Integers After Reverse](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/)
 
 #### **Problems**
 
