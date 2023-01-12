@@ -159,6 +159,7 @@ This repository contains implementation of different data structures and their p
 - Reverse individual words.
 - Next Greater Element
 - Valid parenthesis
+- [Design a stack with increment operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/)
 
 <h2 align="center"><b>Sorting</b></h2>
 
