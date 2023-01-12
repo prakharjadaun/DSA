@@ -50,6 +50,7 @@ This repository contains implementation of different data structures and their p
 - [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
 - [Shuffle the array](https://leetcode.com/problems/shuffle-the-array/description/)
 - [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/)
+- [Strictly Palidromic Number](https://leetcode.com/problems/strictly-palindromic-number/)
 
 <h2 align="center"><b>Strings</b></h2>
 
@@ -205,6 +206,7 @@ This repository contains implementation of different data structures and their p
 - Number of leaf nodes in a binary tree.
 - [PreOrder Traversal without recursion](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
 - [Level order traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)
+- [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/description/)
   
 #### **Problems**
 
