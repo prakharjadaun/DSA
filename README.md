@@ -20,6 +20,7 @@ This repository contains implementation of different data structures and their p
 - [Count items matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)
 - [Widest vertical area between two points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/)
 - [Rearranging the array elements by sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
+- [Largest Altitude of biker](https://leetcode.com/problems/find-the-highest-altitude/description/)
 
 #### **Problems**
 
