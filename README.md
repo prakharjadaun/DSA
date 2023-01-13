@@ -115,6 +115,7 @@ This repository contains implementation of different data structures and their p
 - Find the nth node of the linked list from the end.
 - Convert binary number in a linked list to an integer.
 - [Merge nodes in between zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)
+- [Maximum twin sum](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
 
 <h2 align="center"><b>Queue</b></h2>
 
