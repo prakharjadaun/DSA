@@ -124,6 +124,10 @@ This repository contains implementation of different data structures and their p
 - Priority Queue using STL.
 - Priority Queue using linked list.
 
+#### **Problems**
+
+- [Kth Smallest element in a matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)
+
 </details>
 
 <h2 align="center"><b>Hash Table</b></h2>
