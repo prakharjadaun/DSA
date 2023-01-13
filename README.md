@@ -116,6 +116,7 @@ This repository contains implementation of different data structures and their p
 - Convert binary number in a linked list to an integer.
 - [Merge nodes in between zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)
 - [Maximum twin sum](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
+- [Odd even linked list](https://leetcode.com/problems/odd-even-linked-list/description/)
 
 <h2 align="center"><b>Queue</b></h2>
 
