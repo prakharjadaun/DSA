@@ -135,6 +135,10 @@ This repository contains implementation of different data structures and their p
 
 <h2 align="center"><b>Hash Table</b></h2>
 
+#### **Basic Programs**
+
+- [Create Hashset](https://leetcode.com/problems/design-hashset/)
+
 #### **Problems**
 
 - Find whether an array is a subset of another array
