@@ -60,6 +60,7 @@ This repository contains implementation of different data structures and their p
 - [Maximum number of words found in a sentence](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)
 - [Defang Ip address](https://leetcode.com/problems/defanging-an-ip-address/description/)
 - [Restore strings](https://leetcode.com/problems/shuffle-string/description/)
+- [Interpret Goal](https://leetcode.com/problems/goal-parser-interpretation/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
