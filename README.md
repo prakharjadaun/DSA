@@ -138,6 +138,7 @@ This repository contains implementation of different data structures and their p
 #### **Basic Programs**
 
 - [Create Hashset](https://leetcode.com/problems/design-hashset/)
+- [Create Hashmap](https://leetcode.com/problems/design-hashmap/description/)
 
 #### **Problems**
 
