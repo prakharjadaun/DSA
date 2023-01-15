@@ -24,6 +24,7 @@ This repository contains implementation of different data structures and their p
 - [Count Number of Distinct Integers After Reverse](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/)
 - [Triangular Sum of an array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/)
 - [Jewels in Stones](https://leetcode.com/problems/jewels-and-stones/description/)
+- [Minimum Sum of four digits number after splitting](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/)
 
 #### **Problems**
 
