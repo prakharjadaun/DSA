@@ -270,3 +270,4 @@ This repository contains implementation of different data structures and their p
 #### **Basic programs**
 
 - Creation of adjacency matrix
+- Creation of adjacency list
