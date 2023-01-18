@@ -264,3 +264,9 @@ This repository contains implementation of different data structures and their p
 - [Combining elements of two BST in ascending order](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
 - [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)
 - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
+
+<h2 align="center"><b>Graph</b></h2>
+
+#### **Basic programs**
+
+- Creation of adjacency matrix
