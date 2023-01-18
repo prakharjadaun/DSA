@@ -271,3 +271,4 @@ This repository contains implementation of different data structures and their p
 
 - Creation of adjacency matrix
 - Creation of adjacency list
+- Tranpose of adjacency list
