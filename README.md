@@ -245,6 +245,7 @@ This repository contains implementation of different data structures and their p
 - [Flatten binary tree to linked list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
 - [Construct string from binary tree(Parethesis)](https://leetcode.com/problems/construct-string-from-binary-tree/description/)
 - [Reverse odd levels](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/)
+- [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/)
 
 <h2 align="center"><b>Binary Search Tree</b></h2>
 
