@@ -42,23 +42,62 @@ struct node *create()
     }
 }
 
-//function to perform the level order traversal
+// //function to perform the level order traversal
+// void LevelOrderTraversal(struct node *root)
+// {
+//     queue<struct node*> q;
+//     struct node *temp = NULL;
+//     q.push(root);
+//     while(!q.empty())
+//     {
+//         temp = q.front();
+//         q.pop();
+//         cout<<temp->data<<endl;
+//         if(temp->left)
+//             q.push(temp->left);
+//         if(temp->right)
+//             q.push(temp->right);
+//     }
+// }
+
 void LevelOrderTraversal(struct node *root)
 {
+    if(!root)
+    {
+        return;
+    }
+    int level = 0;
+
     queue<struct node*> q;
     struct node *temp = NULL;
     q.push(root);
+    q.push(NULL);
+
     while(!q.empty())
     {
         temp = q.front();
         q.pop();
-        cout<<temp->data<<endl;
-        if(temp->left)
-            q.push(temp->left);
-        if(temp->right)
-            q.push(temp->right);
+
+        if(temp==NULL)
+        {
+            if(!q.empty())
+            {
+                q.push(NULL);
+            }
+            cout<<endl;
+            level++;
+        }
+        else
+        {
+            cout<<temp->data<<" ";
+            if(temp->left)
+                q.push(temp->left);
+            if(temp->right)
+                q.push(temp->right);
+        }
     }
 }
+
 //function to display the inorder traversal of binary tree
 void Inorder(struct node *root)
 {
