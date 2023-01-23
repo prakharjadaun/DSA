@@ -248,6 +248,7 @@ This repository contains implementation of different data structures and their p
 - [Reverse odd levels](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/)
 - [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/)
 - [Remove leaf nodes with a given value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)
+- [Evaluate a boolean binary tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/)
 
 <h2 align="center"><b>Binary Search Tree</b></h2>
 
