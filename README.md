@@ -251,6 +251,7 @@ This repository contains implementation of different data structures and their p
 - [Evaluate a boolean binary tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/)
 - [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/)
 - [Average of levels of binary tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)
+- [Leaf similar trees](https://leetcode.com/problems/leaf-similar-trees/description/)
 
 <h2 align="center"><b>Binary Search Tree</b></h2>
 
