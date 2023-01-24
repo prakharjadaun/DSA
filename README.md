@@ -53,6 +53,7 @@ This repository contains implementation of different data structures and their p
 - [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/)
 - [Strictly Palidromic Number](https://leetcode.com/problems/strictly-palindromic-number/)
 - [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/)
+- [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
