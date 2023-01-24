@@ -25,6 +25,7 @@ This repository contains implementation of different data structures and their p
 - [Triangular Sum of an array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/)
 - [Jewels in Stones](https://leetcode.com/problems/jewels-and-stones/description/)
 - [Minimum Sum of four digits number after splitting](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/)
+- [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/description/)
 
 #### **Problems**
 
