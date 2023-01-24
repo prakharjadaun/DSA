@@ -64,6 +64,7 @@ This repository contains implementation of different data structures and their p
 - [Defang Ip address](https://leetcode.com/problems/defanging-an-ip-address/description/)
 - [Restore strings](https://leetcode.com/problems/shuffle-string/description/)
 - [Interpret Goal](https://leetcode.com/problems/goal-parser-interpretation/description/)
+- [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
