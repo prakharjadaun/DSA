@@ -287,3 +287,4 @@ This repository contains implementation of different data structures and their p
 - Creation of adjacency list
 - Tranpose of adjacency list
 - Breadth first search implementation using queue
+- Depth first search implementation using stack
