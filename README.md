@@ -55,6 +55,7 @@ This repository contains implementation of different data structures and their p
 - [Strictly Palidromic Number](https://leetcode.com/problems/strictly-palindromic-number/)
 - [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/)
 - [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
+- [Rotate image](https://leetcode.com/problems/rotate-image/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
