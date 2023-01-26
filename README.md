@@ -175,6 +175,7 @@ This repository contains implementation of different data structures and their p
 - Remove minimum number of elements such that no common element exist in both array.
 - Count items common to both the lists but with different prices.
 - Ransom Note : check whether string 1 can be constructed from string 2
+- [Decode the message](https://leetcode.com/problems/decode-the-message/description/)
 
 <h2 align="center"><b>Stack</b></h2>
 
