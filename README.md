@@ -70,6 +70,7 @@ This repository contains implementation of different data structures and their p
 - [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/)
 - [Merge strings alternatively](https://leetcode.com/problems/merge-strings-alternately/description/)
 - [Valid anagram](https://leetcode.com/problems/valid-anagram/description/)
+- [Find the difference](https://leetcode.com/problems/find-the-difference/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
