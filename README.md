@@ -177,6 +177,7 @@ This repository contains implementation of different data structures and their p
 - Ransom Note : check whether string 1 can be constructed from string 2
 - [Decode the message](https://leetcode.com/problems/decode-the-message/description/)
 - [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/)
+- [Check if a string is pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
 
 <h2 align="center"><b>Stack</b></h2>
 
