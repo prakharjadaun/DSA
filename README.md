@@ -68,6 +68,7 @@ This repository contains implementation of different data structures and their p
 - [Interpret Goal](https://leetcode.com/problems/goal-parser-interpretation/description/)
 - [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/)
 - [Merge strings alternatively](https://leetcode.com/problems/merge-strings-alternately/description/)
+- [Valid anagram](https://leetcode.com/problems/valid-anagram/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
