@@ -299,3 +299,4 @@ This repository contains implementation of different data structures and their p
 - Breadth first search implementation using queue & adjacency matrix
 - Depth first search implementation using stack
 - BFS using adjacency list
+- DFS using adjacency list
