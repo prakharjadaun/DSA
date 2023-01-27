@@ -57,6 +57,7 @@ This repository contains implementation of different data structures and their p
 - [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/)
 - [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 - [Rotate image](https://leetcode.com/problems/rotate-image/description/)
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
