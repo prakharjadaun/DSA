@@ -22,6 +22,9 @@
     <a href="#Binary-Search-Tree">Binary Search Tree</a> •
     <a href="#Graph">Graph</a>
 </p>
+<p align="center">
+    <a href="#Favorites"><b>Favorites</b></a>
+</p>
 
 <h2 align="center"><b>Arrays</b></h2>
 
@@ -327,3 +330,7 @@
 - Depth first search implementation using stack
 - BFS using adjacency list
 - DFS using adjacency list
+
+<h2 align="center"><b>Favorites</b></h2>
+
+- [Find Duplicates](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
