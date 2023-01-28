@@ -58,6 +58,7 @@ This repository contains implementation of different data structures and their p
 - [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 - [Rotate image](https://leetcode.com/problems/rotate-image/description/)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
+- [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
