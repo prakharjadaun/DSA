@@ -48,6 +48,7 @@
 - [Minimum Sum of four digits number after splitting](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/)
 - [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/description/)
 - [Move Zeros](https://leetcode.com/problems/move-zeroes/description/)
+- [Matrix Diagonal sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)
 
 #### **Problems**
 
