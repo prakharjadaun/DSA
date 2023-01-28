@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=DSA🔥&width=800&height=400" alt="Markdownify" width="800" height="300"></a>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=DSA🔥&width=1000&height=400" alt="Markdownify" width="800" height="300"></a>
   <br>
     Master Data Structures and Algorithms with ease
   <br>
