@@ -1,6 +1,27 @@
-# **DSA**
+<h1 align="center">
+  <br>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=DSA🔥&width=800&height=400" alt="Markdownify" width="800" height="300"></a>
+  <br>
+    Master Data Structures and Algorithms with ease
+  <br>
+</h1>
 
-This repository contains implementation of different data structures and their problems.
+<p align="center">
+  <a href="#Arrays">Arrays</a> •
+  <a href="#Strings">Strings</a> •
+  <a href="#Bitwise-Operations">Bitwise Manip.</a> •
+  <a href="#Linked-List">Linked List</a> •
+  <a href="#Queue">Queue</a> •
+  <a href="#Stack">Stack</a> •
+  <a href="#Hash-Table">Hash Table</a> •
+  <a href="#Sorting">Sorting</a>
+</p>
+<p align="center">
+    <a href="#Recursion">Recursion</a> •
+    <a href="#Binary-Tree">Binary Tree</a> •
+    <a href="#Binary-Search-Tree">Binary Search Tree</a> •
+    <a href="#Graph">Graph</a>
+</p>
 
 <h2 align="center"><b>Arrays</b></h2>
 
