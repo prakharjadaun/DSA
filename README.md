@@ -83,6 +83,7 @@
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
 - [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/description/)
 - [Sort the students](https://leetcode.com/problems/sort-the-students-by-their-kth-score/description/)
+- [Largest Number](https://leetcode.com/problems/largest-number/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
