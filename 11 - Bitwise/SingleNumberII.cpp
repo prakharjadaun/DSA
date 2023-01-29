@@ -26,3 +26,5 @@ public:
         return ans;
     }
 };
+
+//https://leetcode.com/problems/single-number-ii/solutions/43295/detailed-explanation-and-generalization-of-the-bitwise-operation-method-for-single-numbers/
