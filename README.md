@@ -336,3 +336,4 @@
 <h2 align="center"><b>Favorites</b></h2>
 
 - [Find Duplicates](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
+- [Xor Beauty](https://leetcode.com/problems/find-xor-beauty-of-array/description/)
