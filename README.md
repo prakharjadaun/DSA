@@ -54,6 +54,7 @@
 - [Matrix Diagonal sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)
 - [Flip an image](https://leetcode.com/problems/flipping-an-image/description/)
 - [Missing number](https://leetcode.com/problems/missing-number/description/)
+- [Happy number](https://leetcode.com/problems/happy-number/description/)
 
 #### **Problems**
 
