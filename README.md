@@ -88,6 +88,7 @@
 - [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/description/)
 - [Sort the students](https://leetcode.com/problems/sort-the-students-by-their-kth-score/description/)
 - [Largest Number](https://leetcode.com/problems/largest-number/description/)
+- [Sort the number of 1 bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
