@@ -56,6 +56,7 @@
 - [Missing number](https://leetcode.com/problems/missing-number/description/)
 - [Happy number](https://leetcode.com/problems/happy-number/description/)
 - [Maximum ice cream](https://leetcode.com/problems/maximum-ice-cream-bars/description/)
+- [N unique integers which sum up to zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/)
 
 #### **Problems**
 
