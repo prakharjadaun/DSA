@@ -55,6 +55,7 @@
 - [Flip an image](https://leetcode.com/problems/flipping-an-image/description/)
 - [Missing number](https://leetcode.com/problems/missing-number/description/)
 - [Happy number](https://leetcode.com/problems/happy-number/description/)
+- [Maximum ice cream](https://leetcode.com/problems/maximum-ice-cream-bars/description/)
 
 #### **Problems**
 
