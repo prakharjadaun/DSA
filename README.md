@@ -57,6 +57,7 @@
 - [Happy number](https://leetcode.com/problems/happy-number/description/)
 - [Maximum ice cream](https://leetcode.com/problems/maximum-ice-cream-bars/description/)
 - [N unique integers which sum up to zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/)
+- [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)
 
 #### **Problems**
 
