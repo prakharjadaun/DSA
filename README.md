@@ -93,6 +93,7 @@
 - [Largest Number](https://leetcode.com/problems/largest-number/description/)
 - [Sort the number of 1 bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/)
 - [Check if matrix is X-matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/description/)
+- [Group anagrams](https://leetcode.com/problems/group-anagrams/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
