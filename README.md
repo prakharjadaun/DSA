@@ -347,3 +347,4 @@
 
 - [Find Duplicates](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
 - [Xor Beauty](https://leetcode.com/problems/find-xor-beauty-of-array/description/)
+- ['Verifying an alien dictionary'](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
