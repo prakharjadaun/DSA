@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 235</br>
+    <br>Count : 236</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -265,6 +265,7 @@
 #### **Problems**
 
 - N Queens problem.
+- [Combination sum](https://leetcode.com/problems/combination-sum/description/)
 
 <h2 align="center"><b>Binary Tree</b></h2>
 
