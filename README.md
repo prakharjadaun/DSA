@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 234</br>
+    <br>Count : 235</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -114,6 +114,7 @@
 - [Number of good ways to split a string](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/description/)
 - [Counting words with a given prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)
 - [Greatest common divisor of strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
+- [Check distance between same letters](https://leetcode.com/problems/check-distances-between-same-letters/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
