@@ -349,3 +349,4 @@
 - [Xor Beauty](https://leetcode.com/problems/find-xor-beauty-of-array/description/)
 - ['Verifying an alien dictionary'](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
+- [Permutations in string](https://leetcode.com/problems/permutation-in-string/description/)
