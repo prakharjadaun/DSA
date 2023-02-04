@@ -1,102 +1,84 @@
-#include<iostream>
-#include<stdlib.h>
+#include<vector>
 using namespace std;
-
-class Nqueen
-{
-    private:
-        int size;
-        int solutions;
-
-    public:
-        //constructor to assign the inital values to the variables of the class N queen
-        Nqueen(int s)
+#include<stdlib.h>
+#include<string>
+class Solution {
+    vector<vector<string>> ans;
+    //function to assign -1 to all the indices of the pos 
+    void assign(int *pos,int n)
+    {
+        for(int i=0;i<n;i++)
         {
-            size = s;
-            solutions = 0;
+            pos[i]=-1;
         }
+    }
+    //function solve to allocate memory to pos array and call the put_queen function
+    void solve(int n)
+    {
+        int *pos = (int *)malloc(n*sizeof(int));
+        assign(pos,n);
 
-        //to assign -1 to all the indices of the positions array
-        void assign(int *pos,int n)
+        put_queen(pos,0,n);
+    }
+    //function to put queen 
+    void put_queen(int *pos,int target_row,int n)
+    {
+        if(target_row==n)
+        {
+            append(pos,n);
+        }
+        else
         {
             for(int i=0;i<n;i++)
             {
-                pos[i] = -1;
+                if(check_place(pos,target_row,i))
+                {
+                    pos[target_row] = i;
+                    put_queen(pos,target_row+1,n);
+                }
             }
         }
-        //function to start executing the algorithm of the n queens
-        void solve()
-        {
-            int *positions = (int *)malloc(size*sizeof(int));
-            assign(positions,size);
+    }
 
-            put_queen(positions,0);
-            cout<<"Found "<<solutions<<" solutions"<<endl;
-        }
-        //function to put queen on the desired places
-        void put_queen(int *positions,int target_row)
+    //function to check whether the queen is in the same row, diagonal or the another diagonal
+    bool check_place(int *pos,int occupied_row, int column)
+    {
+        for(int i=0;i<occupied_row;i++)
         {
-            if(target_row==size)
+            if(pos[i]==column || pos[i]-i == column-occupied_row || pos[i]+i == column + occupied_row)
+            return false;
+        }
+        return true;
+    }
+    //function to append the solution to the answer vector
+    void append(int *pos,int n)
+    {
+        string s;
+        vector<string> temp;
+        for(int i=0;i<n;i++)
+        {
+            s="";
+            for(int j=0;j<n;j++)
             {
-                display_chess_Board(positions);
-                solutions += 1;
-            }
-            else
-            {
-                for(int column = 0;column < size;column++)
+                if(pos[i]==j)
                 {
-                    if(check_place(positions,target_row,column))
-                    {
-                        positions[target_row]= column;
-                        put_queen(positions,target_row+1);
-                    }
+                    s+="Q";
+                }
+                else
+                {
+                    s+=".";
                 }
             }
+            temp.push_back(s);
         }
-        //function to check whether the place is fine or not for placing the queen
-        bool check_place(int *positions,int occupied_row, int column)
-        {
-            for(int i=0;i<occupied_row;i++)
-            {
-                if((positions[i]==column)||(positions[i]-i == column-occupied_row)||(positions[i]+i == column+occupied_row))
-                {
-                    return false;
-                }
-            }
-            return true;
-        }
-        // function to display the chess board
-        void display_chess_Board(int *positions)
-        {
-            string s;
-            for(int row=0;row<size;row++)
-            {
-                s = "";
-                for(int col = 0;col<size;col++)
-                {
-                    if(positions[row]==col)
-                    {
-                        s +="Q ";
-                    }
-                    else
-                    {
-                        s+=". ";
-                    }
+        ans.push_back(temp);
+        temp.clear();
+    }
 
-                }
-                cout<<s<<endl;
-            }
-            cout<<endl;
-            cout<<endl;
-        }
+public:
+    vector<vector<string>> solveNQueens(int n) 
+    {
+        solve(n);
+        return ans;
+    }
 };
-
-
-int main()
-{
-    //creating an object of the Nqueen class 
-    Nqueen *obj = new Nqueen(8);
-    //calling the solve function from the object we have created.
-    obj->solve();
-    return 0;
-}

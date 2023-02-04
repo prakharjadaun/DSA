@@ -264,7 +264,7 @@
 
 #### **Problems**
 
-- N Queens problem.
+- [N Queens problem I](https://leetcode.com/problems/n-queens/description/)
 - [Combination sum](https://leetcode.com/problems/combination-sum/description/)
 
 <h2 align="center"><b>Binary Tree</b></h2>
