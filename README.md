@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 239</br>
+    <br>Count : 240</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -175,6 +175,7 @@
 - [Maximum twin sum](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
 - [Odd even linked list](https://leetcode.com/problems/odd-even-linked-list/description/)
 - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
+- [Design linked list](https://leetcode.com/problems/design-linked-list/description/)
 
 <h2 align="center"><b>Queue</b></h2>
 
