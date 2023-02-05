@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 236</br>
+    <br>Count : 237</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -353,3 +353,4 @@
 - ['Verifying an alien dictionary'](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
 - [Permutations in string](https://leetcode.com/problems/permutation-in-string/description/)
+- [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
