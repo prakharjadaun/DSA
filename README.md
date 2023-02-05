@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 237</br>
+    <br>Count : 238</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -239,6 +239,7 @@
 - Next Greater Element
 - Valid parenthesis
 - [Design a stack with increment operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/)
+- [Baseball game](https://leetcode.com/problems/baseball-game/description/)
 
 <h2 align="center"><b>Sorting</b></h2>
 
