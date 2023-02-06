@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 242</br>
+    <br>Count : 243</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -225,6 +225,7 @@
 - [Check if a string is pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
 - [Merge similar items](https://leetcode.com/problems/merge-similar-items/description/)
 - [Maximum number of balls in a box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/description/)
+- [Two out of three](https://leetcode.com/problems/two-out-of-three/description/)
 
 <h2 align="center"><b>Stack</b></h2>
 
