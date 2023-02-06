@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 245</br>
+    <br>Count : 246</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -229,6 +229,7 @@
 - [Two out of three](https://leetcode.com/problems/two-out-of-three/description/)
 - [Sort array by increaing frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/)
 - [Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
+- [https://leetcode.com/problems/count-vowel-substrings-of-a-string/description/](https://leetcode.com/problems/count-vowel-substrings-of-a-string/description/)
 
 <h2 align="center"><b>Stack</b></h2>
 
