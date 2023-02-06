@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 243</br>
+    <br>Count : 244</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -59,6 +59,7 @@
 - [Maximum ice cream](https://leetcode.com/problems/maximum-ice-cream-bars/description/)
 - [N unique integers which sum up to zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/)
 - [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)
+
 
 #### **Problems**
 
@@ -226,6 +227,7 @@
 - [Merge similar items](https://leetcode.com/problems/merge-similar-items/description/)
 - [Maximum number of balls in a box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/description/)
 - [Two out of three](https://leetcode.com/problems/two-out-of-three/description/)
+- [Sort array by increaing frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/)
 
 <h2 align="center"><b>Stack</b></h2>
 
