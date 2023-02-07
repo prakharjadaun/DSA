@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 249</br>
+    <br>Count : 250</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -200,6 +200,7 @@
 
 - [Create Hashset](https://leetcode.com/problems/design-hashset/)
 - [Create Hashmap](https://leetcode.com/problems/design-hashmap/description/)
+- [Most Frequent number of following key in an array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/description/)
 
 #### **Problems**
 
