@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 248</br>
+    <br>Count : 249</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -366,3 +366,4 @@
 - [Permutations in string](https://leetcode.com/problems/permutation-in-string/description/)
 - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
 - [Total fruits](https://leetcode.com/problems/fruit-into-baskets/description/)
+- [Maximum number of balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
