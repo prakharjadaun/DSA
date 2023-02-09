@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 252</br>
+    <br>Count : 253</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -59,7 +59,7 @@
 - [Maximum ice cream](https://leetcode.com/problems/maximum-ice-cream-bars/description/)
 - [N unique integers which sum up to zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/)
 - [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)
-
+- [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/)
 
 #### **Problems**
 
