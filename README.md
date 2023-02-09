@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 251</br>
+    <br>Count : 252</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -369,3 +369,4 @@
 - [Total fruits](https://leetcode.com/problems/fruit-into-baskets/description/)
 - [Maximum number of balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
+- [Naming a company](https://leetcode.com/problems/naming-a-company/description/)
