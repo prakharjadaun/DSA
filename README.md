@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 254</br>
+    <br>Count : 255</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -371,3 +371,4 @@
 - [Maximum number of balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 - [Naming a company](https://leetcode.com/problems/naming-a-company/description/)
+- [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/)
