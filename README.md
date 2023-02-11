@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 256</br>
+    <br>Count : 257</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -204,6 +204,7 @@
 - [Most Frequent number of following key in an array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/description/)
 - [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)
 - [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/)
+- [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/)
 
 #### **Problems**
 
