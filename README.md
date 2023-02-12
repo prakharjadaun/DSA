@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 258</br>
+    <br>Count : 259</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -376,3 +376,4 @@
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 - [Naming a company](https://leetcode.com/problems/naming-a-company/description/)
 - [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/)
+- [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)
