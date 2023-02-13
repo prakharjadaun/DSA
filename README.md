@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 261</br>
+    <br>Count : 262</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -101,6 +101,7 @@
 
 <h2 align="center"><b>Strings</b></h2>
 
+- String Basics
 - [Add Binary](https://leetcode.com/problems/add-binary/description/)
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
