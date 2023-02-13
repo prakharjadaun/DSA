@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 259</br>
+    <br>Count : 260</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -118,6 +118,7 @@
 - [Greatest common divisor of strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)
 - [Check distance between same letters](https://leetcode.com/problems/check-distances-between-same-letters/description/)
 - [Number of different integers in the string](https://leetcode.com/problems/number-of-different-integers-in-a-string/description/)
+- [Check whether two string are rotation of each other or not](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
