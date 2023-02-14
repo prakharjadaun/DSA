@@ -19,7 +19,7 @@ int main()
     
     if(s1.size()!=s2.size())
     {
-        cout<<"Strings are rotation of each other...!"<<endl;
+        cout<<"Strings are not rotation of each other...!"<<endl;
     }
     else
     {
