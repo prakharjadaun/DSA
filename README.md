@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 264</br>
+    <br>Count : 265</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -104,6 +104,7 @@
 - String Basics
 - Print all permutations of the string
 - Subsequences of string
+- Longest recurring subsequence of a string
 - [Add Binary](https://leetcode.com/problems/add-binary/description/)
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
