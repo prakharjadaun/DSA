@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 268</br>
+    <br>Count : 269</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -100,6 +100,7 @@
 - [Group anagrams](https://leetcode.com/problems/group-anagrams/description/)
 - [Add to array form](https://leetcode.com/problems/add-to-array-form-of-integer/description/)
 - [Find all the numbers that disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
+- [Rotate the array](https://leetcode.com/problems/rotate-array/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
