@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 269</br>
+    <br>Count : 270</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -101,6 +101,7 @@
 - [Add to array form](https://leetcode.com/problems/add-to-array-form-of-integer/description/)
 - [Find all the numbers that disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
 - [Rotate the array](https://leetcode.com/problems/rotate-array/description/)
+- [Find lucky number](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
