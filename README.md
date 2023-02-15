@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 266</br>
+    <br>Count : 267</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -99,6 +99,7 @@
 - [Check if matrix is X-matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/description/)
 - [Group anagrams](https://leetcode.com/problems/group-anagrams/description/)
 - [Add to array form](https://leetcode.com/problems/add-to-array-form-of-integer/description/)
+- [Find all the numbers that disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
