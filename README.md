@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 271</br>
+    <br>Count : 272</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -103,6 +103,7 @@
 - [Rotate the array](https://leetcode.com/problems/rotate-array/description/)
 - [Find lucky number](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/)
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
+- Disarrange Balls
 
 <h2 align="center"><b>Strings</b></h2>
 
