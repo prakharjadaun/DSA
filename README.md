@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 275</br>
+    <br>Count : 276</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -393,3 +393,4 @@
 - [Naming a company](https://leetcode.com/problems/naming-a-company/description/)
 - [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/)
 - [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)
+- [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/)
