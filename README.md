@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 276</br>
+    <br>Count : 277</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -134,6 +134,7 @@
 - [Longest Palindromic Substring](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)
 - [Most common words](https://leetcode.com/problems/most-common-word/description/)
 - [DI String match](https://leetcode.com/problems/di-string-match/description/)
+- [Count prefixes of a given string](https://leetcode.com/problems/count-prefixes-of-a-given-string/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
