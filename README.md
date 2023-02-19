@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 274</br>
+    <br>Count : 275</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -133,6 +133,7 @@
 - [Check whether two string are rotation of each other or not](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)
 - [Longest Palindromic Substring](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)
 - [Most common words](https://leetcode.com/problems/most-common-word/description/)
+- [DI String match](https://leetcode.com/problems/di-string-match/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
