@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 273</br>
+    <br>Count : 274</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -62,6 +62,7 @@
 - [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/)
 - [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/)
 - [Sort array by parity](https://leetcode.com/problems/sort-array-by-parity/description/)
+- [Separate Digits in array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)
 
 #### **Problems**
 
