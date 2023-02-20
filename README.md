@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 278</br>
+    <br>Count : 279</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -63,6 +63,7 @@
 - [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/)
 - [Sort array by parity](https://leetcode.com/problems/sort-array-by-parity/description/)
 - [Separate Digits in array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)
+- [Third max number](https://leetcode.com/problems/third-maximum-number/description/)
 
 #### **Problems**
 
