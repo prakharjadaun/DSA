@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 280</br>
+    <br>Count : 281</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -107,6 +107,7 @@
 - [Find lucky number](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/)
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
 - Disarrange Balls
+- [Count rows with max 1](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)
 
 <h2 align="center"><b>Strings</b></h2>
 
