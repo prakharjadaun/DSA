@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 286</br>
+    <br>Count : 287</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -140,6 +140,7 @@
 - [Count prefixes of a given string](https://leetcode.com/problems/count-prefixes-of-a-given-string/description/)
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
 - [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/description/)
+- [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
