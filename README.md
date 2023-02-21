@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 283</br>
+    <br>Count : 285</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -108,6 +108,7 @@
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
 - Disarrange Balls
 - [Count rows with max 1](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)
+- [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
