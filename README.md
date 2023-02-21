@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 279</br>
+    <br>Count : 280</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -397,3 +397,4 @@
 - [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/)
 - [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)
 - [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/)
+- [Missing Number](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1)
