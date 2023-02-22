@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 287</br>
+    <br>Count : 288</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -141,6 +141,7 @@
 - [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
 - [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/description/)
 - [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/description/)
+- [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
