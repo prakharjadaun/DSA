@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 290</br>
+    <br>Count : 291</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -407,3 +407,4 @@
 - [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)
 - [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/)
 - [Missing Number](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1)
+- [Max Product Of Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
