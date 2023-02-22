@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 293</br>
+    <br>Count : 294</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -146,6 +146,7 @@
 - [Percentage of a letter](https://leetcode.com/problems/percentage-of-letter-in-string/description/)
 - [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/)
 - [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/description/)
+- [Circular Sentence](https://leetcode.com/problems/circular-sentence/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
