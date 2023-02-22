@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 291</br>
+    <br>Count : 292</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -144,6 +144,7 @@
 - [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/description/)
 - [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 - [Percentage of a letter](https://leetcode.com/problems/percentage-of-letter-in-string/description/)
+- [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
