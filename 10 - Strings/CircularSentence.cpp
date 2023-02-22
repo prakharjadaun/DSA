@@ -21,7 +21,7 @@ public:
         {
             if(temp[i][temp[i].size()-1] != temp[i+1][0])
                 return false;
-        }
+        } 
         return true;
     }
 };
