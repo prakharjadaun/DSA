@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 289</br>
+    <br>Count : 290</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -64,6 +64,7 @@
 - [Sort array by parity](https://leetcode.com/problems/sort-array-by-parity/description/)
 - [Separate Digits in array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)
 - [Third max number](https://leetcode.com/problems/third-maximum-number/description/)
+- [Is subarray Exists with sum 0](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0)
 
 #### **Problems**
 
