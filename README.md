@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 294</br>
+    <br>Count : 299</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -65,6 +65,7 @@
 - [Separate Digits in array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)
 - [Third max number](https://leetcode.com/problems/third-maximum-number/description/)
 - [Is subarray Exists with sum 0](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0)
+- [Lonely Numbers in the array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/description/)
 
 #### **Problems**
 
@@ -147,6 +148,10 @@
 - [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/)
 - [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/description/)
 - [Circular Sentence](https://leetcode.com/problems/circular-sentence/description/)
+- [Isomorphic strings](https://leetcode.com/problems/isomorphic-strings/description/)
+- [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
+- [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/description/)
+- [Second largest digit in a string](https://leetcode.com/problems/second-largest-digit-in-a-string/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
