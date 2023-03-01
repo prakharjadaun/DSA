@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 300</br>
+    <br>Count : 303</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -152,6 +152,7 @@
 - [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)
 - [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/description/)
 - [Second largest digit in a string](https://leetcode.com/problems/second-largest-digit-in-a-string/description/)
+- [Sort a sentence](https://leetcode.com/problems/sorting-the-sentence/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
@@ -214,6 +215,8 @@
 - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
 - [Design linked list](https://leetcode.com/problems/design-linked-list/description/)
 - [Reorder List](https://leetcode.com/problems/reorder-list/description/)
+- [Swap nodes in pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
+- [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)
 
 <h2 align="center"><b>Queue</b></h2>
 
