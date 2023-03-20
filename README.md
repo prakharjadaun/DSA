@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 303</br>
+    <br>Count : 304</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -66,6 +66,7 @@
 - [Third max number](https://leetcode.com/problems/third-maximum-number/description/)
 - [Is subarray Exists with sum 0](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0)
 - [Lonely Numbers in the array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/description/)
+- [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)
 
 #### **Problems**
 
