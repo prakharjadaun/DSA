@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 305</br>
+    <br>Count : 306</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -113,6 +113,7 @@
 - Disarrange Balls
 - [Count rows with max 1](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)
 - [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/)
+- [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
