@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 306</br>
+    <br>Count : 307</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -156,6 +156,7 @@
 - [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/description/)
 - [Second largest digit in a string](https://leetcode.com/problems/second-largest-digit-in-a-string/description/)
 - [Sort a sentence](https://leetcode.com/problems/sorting-the-sentence/description/)
+- [Summary ranges](https://leetcode.com/problems/summary-ranges/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
