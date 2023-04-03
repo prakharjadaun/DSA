@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 310</br>
+    <br>Count : 311</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -160,6 +160,7 @@
 - [Sort a sentence](https://leetcode.com/problems/sorting-the-sentence/description/)
 - [Summary ranges](https://leetcode.com/problems/summary-ranges/description/)
 - [Robot return to origin](https://leetcode.com/problems/robot-return-to-origin/description/)
+- [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
