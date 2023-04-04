@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 314</br>
+    <br>Count : 315</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -163,6 +163,7 @@
 - [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)
 - [Reverse prefix of word](https://leetcode.com/problems/reverse-prefix-of-word/description/)
 - [Determine color of a chessboard square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/description/)
+- [Partition String](https://leetcode.com/problems/optimal-partition-of-string/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
