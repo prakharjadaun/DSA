@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 315</br>
+    <br>Count : 316</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -432,3 +432,4 @@
 - [Missing Number](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1)
 - [Max Product Of Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
 - [Boats to save people](https://leetcode.com/problems/boats-to-save-people/description/)
+- [Minimize & maximum of array](https://leetcode.com/problems/minimize-maximum-of-array/description/)
