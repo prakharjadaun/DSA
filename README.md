@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 320</br>
+    <br>Count : 321</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -292,6 +292,7 @@
 - [Rings and Rods](https://leetcode.com/problems/rings-and-rods/description/)
 - [Finding the user active minutes](https://leetcode.com/problems/finding-the-users-active-minutes/description/)
 - [Subdomain Visit Counts](https://leetcode.com/problems/subdomain-visit-count/description/)
+- [Players with zero or one losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/)
 
 <h2 align="center"><b>Stack</b></h2>
 
