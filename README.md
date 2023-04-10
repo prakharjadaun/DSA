@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 318</br>
+    <br>Count : 319</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -164,6 +164,7 @@
 - [Reverse prefix of word](https://leetcode.com/problems/reverse-prefix-of-word/description/)
 - [Determine color of a chessboard square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/description/)
 - [Partition String](https://leetcode.com/problems/optimal-partition-of-string/description/)
+- [Minimum number of steps to make two strings anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
