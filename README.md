@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 323</br>
+    <br>Count : 324</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -295,6 +295,7 @@
 - [Players with zero or one losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/)
 - [Equal row and column pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/)
 - [Check whether two strings are almost equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/description/)
+- [Distribute candies](https://leetcode.com/problems/distribute-candies/description/)
 
 <h2 align="center"><b>Stack</b></h2>
 
