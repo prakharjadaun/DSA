@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 319</br>
+    <br>Count : 320</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -291,6 +291,7 @@
 - [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/)
 - [Rings and Rods](https://leetcode.com/problems/rings-and-rods/description/)
 - [Finding the user active minutes](https://leetcode.com/problems/finding-the-users-active-minutes/description/)
+- [Subdomain Visit Counts](https://leetcode.com/problems/subdomain-visit-count/description/)
 
 <h2 align="center"><b>Stack</b></h2>
 
