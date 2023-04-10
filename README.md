@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 316</br>
+    <br>Count : 317</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -288,6 +288,7 @@
 - [Replace words](https://leetcode.com/problems/replace-words/description/)
 - [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/)
 - [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/)
+- [Rings and Rods](https://leetcode.com/problems/rings-and-rods/description/)
 
 <h2 align="center"><b>Stack</b></h2>
 
