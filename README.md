@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 324</br>
+    <br>Count : 325</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -69,6 +69,7 @@
 - [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)
 - [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/)
 - [Shuffle an array](https://leetcode.com/problems/shuffle-an-array/description/)
+- [Find winner on a tic tac toe game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)
 
 #### **Problems**
 
