@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 325</br>
+    <br>Count : 326</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -70,6 +70,7 @@
 - [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/)
 - [Shuffle an array](https://leetcode.com/problems/shuffle-an-array/description/)
 - [Find winner on a tic tac toe game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)
+- [Check if every row and column contains all numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/description/)
 
 #### **Problems**
 
