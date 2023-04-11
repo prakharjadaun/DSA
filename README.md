@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 328</br>
+    <br>Count : 329</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -168,6 +168,7 @@
 - [Partition String](https://leetcode.com/problems/optimal-partition-of-string/description/)
 - [Minimum number of steps to make two strings anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/)
 - [Goat Latin](https://leetcode.com/problems/goat-latin/description/)
+- [Smallest string with a given numeric value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
