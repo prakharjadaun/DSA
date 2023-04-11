@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 326</br>
+    <br>Count : 328</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -167,6 +167,7 @@
 - [Determine color of a chessboard square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/description/)
 - [Partition String](https://leetcode.com/problems/optimal-partition-of-string/description/)
 - [Minimum number of steps to make two strings anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/)
+- [Goat Latin](https://leetcode.com/problems/goat-latin/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
@@ -317,6 +318,7 @@
 - [Design a stack with increment operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/)
 - [Baseball game](https://leetcode.com/problems/baseball-game/description/)
 - [Min stack](https://leetcode.com/problems/min-stack/description/)
+- [Removing stars from a string](https://leetcode.com/problems/removing-stars-from-a-string/description/)
 
 <h2 align="center"><b>Sorting</b></h2>
 
