@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 331</br>
+    <br>Count : 332</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -302,6 +302,7 @@
 - [Equal row and column pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/)
 - [Check whether two strings are almost equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/description/)
 - [Distribute candies](https://leetcode.com/problems/distribute-candies/description/)
+- [Smallest number in infinite set](https://leetcode.com/problems/smallest-number-in-infinite-set/description/)
 
 <h2 align="center"><b>Stack</b></h2>
 
