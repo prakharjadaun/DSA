@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 330</br>
+    <br>Count : 331</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -71,6 +71,7 @@
 - [Shuffle an array](https://leetcode.com/problems/shuffle-an-array/description/)
 - [Find winner on a tic tac toe game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)
 - [Check if every row and column contains all numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/description/)
+- [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
 
 #### **Problems**
 
