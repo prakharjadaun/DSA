@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 332</br>
+    <br>Count : 333</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -429,6 +429,7 @@
 - Depth first search implementation using stack
 - BFS using adjacency list
 - DFS using adjacency list
+- [Prims Algo](https://www.codingninjas.com/codestudio/problem-details/prim-s-mst_1095633)
 
 <h2 align="center"><b>Favorites</b></h2>
 
