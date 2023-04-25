@@ -24,7 +24,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 333</br>
+    <br>Count : 334</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -174,7 +174,8 @@
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
-- Understanding Bitwise operators
+- Understanding Bitwise operators.
+- Binary Representation of number.
 - [Find the number that appears once.](https://leetcode.com/problems/single-number/description/)
 - [Detect if two integers have opposite signs](https://www.geeksforgeeks.org/detect-if-two-integers-have-opposite-signs/)
 - [Add 1 to a number when all the arithmetic operators are not allowed](https://www.geeksforgeeks.org/add-1-to-a-given-number/)
