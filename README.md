@@ -171,6 +171,7 @@
 - [Goat Latin](https://leetcode.com/problems/goat-latin/description/)
 - [Smallest string with a given numeric value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/description/)
 - [Check if a word occurs as a prefix of any word in a sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/)
+- [Count pairs of similar strings](https://leetcode.com/problems/count-pairs-of-similar-strings/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
