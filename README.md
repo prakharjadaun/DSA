@@ -25,7 +25,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 338</br>
+    <br>Count : 339</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -420,6 +420,7 @@
 - [Combining elements of two BST in ascending order](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
 - [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)
 - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
+- [Unique BSTs (catalan numbers)](https://leetcode.com/problems/unique-binary-search-trees/description/)
 
 <h2 align="center"><b>Graph</b></h2>
 
