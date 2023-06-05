@@ -20,11 +20,12 @@
     <a href="#Recursion">Recursion</a> •
     <a href="#Binary-Tree">Binary Tree</a> •
     <a href="#Binary-Search-Tree">Binary Search Tree</a> •
-    <a href="#Graph">Graph</a>
+    <a href="#Graph">Graph</a> •
+    <a href="#Dynamic-Programming">Dynamic Programming</a>
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 334</br>
+    <br>Count : 338</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -432,6 +433,14 @@
 - BFS using adjacency list
 - DFS using adjacency list
 - [Prims Algo](https://www.codingninjas.com/codestudio/problem-details/prim-s-mst_1095633)
+
+<h2 align="center"><b>Dynamic Programming</b></h2>
+
+- Catalan Numbers
+  - Recursive approach  
+  - DP approach
+  - Binomial coefficient approach
+  - [Nth Catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1)
 
 <h2 align="center"><b>Favorites</b></h2>
 
