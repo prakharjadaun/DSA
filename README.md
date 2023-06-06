@@ -25,7 +25,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 341</br>
+    <br>Count : 343</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -445,6 +445,9 @@
 - Minimum operations
   - [Minimum steps to reach k from 0](https://www.geeksforgeeks.org/minimize-steps-to-reach-k-from-0-by-adding-1-or-doubling-at-each-step/)
   - [Minimum steps to reach 0 from k](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+- Coin change
+  - [Recursive Approach](https://www.geeksforgeeks.org/coin-change-dp-7/)
+  - [Space Optimized Approach](https://www.geeksforgeeks.org/coin-change-dp-7/)
 
 <h2 align="center"><b>Favorites</b></h2>
 
