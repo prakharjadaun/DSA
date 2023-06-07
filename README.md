@@ -25,7 +25,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 345</br>
+    <br>Count : 348</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -451,6 +451,10 @@
 - Permutations
   - [Recursive Approach](https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/)
   - [STL C++ Approach](https://www.geeksforgeeks.org/stdnext_permutation-prev_permutation-c/)
+- [Number of ways to cover distance](https://practice.geeksforgeeks.org/problems/count-number-of-hops-1587115620/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
+  - [Recursive approach](https://www.geeksforgeeks.org/count-number-of-ways-to-cover-a-distance/)
+  - [Dynamic approach](https://www.geeksforgeeks.org/count-number-of-ways-to-cover-a-distance/)
+  - [More efficient approach (using array of 3)](https://www.geeksforgeeks.org/count-number-of-ways-to-cover-a-distance/)
 
 <h2 align="center"><b>Favorites</b></h2>
 
