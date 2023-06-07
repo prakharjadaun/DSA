@@ -25,7 +25,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 343</br>
+    <br>Count : 345</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -448,6 +448,9 @@
 - Coin change
   - [Recursive Approach](https://www.geeksforgeeks.org/coin-change-dp-7/)
   - [Space Optimized Approach](https://www.geeksforgeeks.org/coin-change-dp-7/)
+- Permutations
+  - [Recursive Approach](https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/)
+  - [STL C++ Approach](https://www.geeksforgeeks.org/stdnext_permutation-prev_permutation-c/)
 
 <h2 align="center"><b>Favorites</b></h2>
 
