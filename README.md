@@ -25,7 +25,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 348</br>
+    <br>Count : 352</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -455,6 +455,9 @@
   - [Recursive approach](https://www.geeksforgeeks.org/count-number-of-ways-to-cover-a-distance/)
   - [Dynamic approach](https://www.geeksforgeeks.org/count-number-of-ways-to-cover-a-distance/)
   - [More efficient approach (using array of 3)](https://www.geeksforgeeks.org/count-number-of-ways-to-cover-a-distance/)
+- Longest Common Subsequence
+  - [Min Insertions and deletions to make strings equal](https://www.geeksforgeeks.org/minimum-number-deletions-insertions-transform-one-string-another/)
+  - [Longest Common subsequence - leetcode](https://leetcode.com/problems/longest-common-subsequence/description/)
 
 <h2 align="center"><b>Favorites</b></h2>
 
