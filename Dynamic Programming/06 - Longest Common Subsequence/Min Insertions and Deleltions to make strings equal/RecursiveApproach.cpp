@@ -4,6 +4,8 @@
 using namespace std;
 int dp[1000][1000];
 
+//time complexity:O(m * n)
+//space complexity: O(m * n)
 int lcs(string a, string b, int i, int j)
 {
     //assigning the 0th row and column 0
