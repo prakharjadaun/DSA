@@ -17,6 +17,7 @@
   <a href="#Sorting">Sorting</a>
 </p>
 <p align="center">
+    <a href="#Searching">Searching</a> •
     <a href="#Recursion">Recursion</a> •
     <a href="#Binary-Tree">Binary Tree</a> •
     <a href="#Binary-Search-Tree">Binary Search Tree</a> •
@@ -25,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 352</br>
+    <br>Count : 355</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -339,6 +340,12 @@
 - [Smaller number than current](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
 
 </details>
+
+<h2 align="center"><b>Searching</b></h2>
+
+- Unordered Linear Search
+- Ordered Linear Search
+- Binary Search
 
 <h2 align="center"><b>Recursion</b></h2>
 
