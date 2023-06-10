@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 360</br>
+    <br>Count : 361</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -74,6 +74,7 @@
 - [Find winner on a tic tac toe game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)
 - [Check if every row and column contains all numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/description/)
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
+- [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/)
 
 #### **Problems**
 
