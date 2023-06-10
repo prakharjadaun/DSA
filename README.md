@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 357</br>
+    <br>Count : 358</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -470,6 +470,10 @@
 - Longest Common Subsequence
   - [Min Insertions and deletions to make strings equal](https://www.geeksforgeeks.org/minimum-number-deletions-insertions-transform-one-string-another/)
   - [Longest Common subsequence - leetcode](https://leetcode.com/problems/longest-common-subsequence/description/)
+
+#### **Problems**
+
+- [Nth Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 
 <h2 align="center"><b>Favorites</b></h2>
 
