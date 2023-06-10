@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 361</br>
+    <br>Count : 362</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -75,6 +75,7 @@
 - [Check if every row and column contains all numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/description/)
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
 - [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/)
+- [Peak Index in a mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
 
 #### **Problems**
 
