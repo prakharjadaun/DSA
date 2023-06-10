@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 355</br>
+    <br>Count : 357</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -346,6 +346,11 @@
 - Unordered Linear Search
 - Ordered Linear Search
 - Binary Search
+- Interpolation search
+
+#### **Problems**
+
+- Maximum frequency of an element in array
 
 <h2 align="center"><b>Recursion</b></h2>
 
