@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 358</br>
+    <br>Count : 359</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -474,6 +474,7 @@
 #### **Problems**
 
 - [Nth Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
+- [Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
 
 <h2 align="center"><b>Favorites</b></h2>
 
