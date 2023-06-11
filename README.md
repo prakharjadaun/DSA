@@ -124,6 +124,10 @@
 - [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/description/)
 - [Successful pairs of potions and spells](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/)
 
+#### **Matrix**
+
+- [Matrix rotation by 90 degree](https://leetcode.com/problems/rotate-image/?envType=study-plan-v2&envId=top-interview-150)
+
 <h2 align="center"><b>Strings</b></h2>
 
 - String Basics
