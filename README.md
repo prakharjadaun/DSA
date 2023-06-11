@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 362</br>
+    <br>Count : 363</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -478,6 +478,7 @@
 
 - [Nth Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 - [Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
+- [Jump Game](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150)
 
 <h2 align="center"><b>Favorites</b></h2>
 

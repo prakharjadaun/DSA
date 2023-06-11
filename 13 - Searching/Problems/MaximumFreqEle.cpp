@@ -78,6 +78,7 @@ void maxFre(int arr[], int n)
 
 //time complexity: O(n)
 //space complexity: O(1)
+//Moore's Algo
 void maxFre(int arr[], int n)
 {
     int count = 1;
