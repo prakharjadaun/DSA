@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 366</br>
+    <br>Count : 367</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -181,6 +181,7 @@
 - [Check if a word occurs as a prefix of any word in a sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/)
 - [Count pairs of similar strings](https://leetcode.com/problems/count-pairs-of-similar-strings/description/)
 - [Add string](https://leetcode.com/problems/add-strings/description/)
+- [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
