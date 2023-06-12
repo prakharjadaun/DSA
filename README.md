@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 369</br>
+    <br>Count : 370</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -424,6 +424,7 @@
 - [Binary Tree tilt](https://leetcode.com/problems/binary-tree-tilt/description/)
 - [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/)
 - [Has Path Sum](https://leetcode.com/problems/path-sum/description/?envType=study-plan-v2&envId=top-interview-150)
+- [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/?envType=study-plan-v2&envId=top-interview-150)
 
 <h2 align="center"><b>Binary Search Tree</b></h2>
 
