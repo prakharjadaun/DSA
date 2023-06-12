@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 368</br>
+    <br>Count : 369</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -510,3 +510,4 @@
 - [Minimize & maximum of array](https://leetcode.com/problems/minimize-maximum-of-array/description/)
 - [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/)
 - [Divisor Game](https://leetcode.com/problems/divisor-game/description/)
+- [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/?envType=study-plan-v2&envId=top-interview-150)
