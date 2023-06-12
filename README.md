@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 367</br>
+    <br>Count : 368</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -248,6 +248,7 @@
 - [Swap nodes in pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)
 - [Copy Linked list with Random Head](https://leetcode.com/problems/copy-list-with-random-pointer/description/?envType=study-plan-v2&envId=top-interview-150)
+- [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/?envType=study-plan-v2&envId=top-interview-150)
 
 <h2 align="center"><b>Queue</b></h2>
 
