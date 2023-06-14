@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 370</br>
+    <br>Count : 371</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -345,6 +345,7 @@
 
 - Bubble Sort
 - Insertion Sort
+- Heap Sort
 
 #### **Problems**
 
