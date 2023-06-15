@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 373</br>
+    <br>Count : 374</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -351,6 +351,7 @@
 #### **Problems**
 
 - [Smaller number than current](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
+- [H index](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150)
 
 </details>
 
