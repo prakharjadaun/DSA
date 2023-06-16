@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 374</br>
+    <br>Count : 375</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -128,6 +128,7 @@
 
 - [Matrix rotation by 90 degree](https://leetcode.com/problems/rotate-image/?envType=study-plan-v2&envId=top-interview-150)
 - [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=study-plan-v2&envId=top-interview-150)
+- [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/?envType=study-plan-v2&envId=top-interview-150)
 
 <h2 align="center"><b>Strings</b></h2>
 
