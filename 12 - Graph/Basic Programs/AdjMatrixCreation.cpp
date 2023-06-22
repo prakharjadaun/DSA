@@ -52,10 +52,11 @@ struct Graph *creation()
     cin>>g->E;
 
     //allocating memory for Adj pointer
-    g->Adj = (int **)malloc(sizeof(g->V ));
+    // int **adj
+    g->Adj = (int **)malloc(g->V*sizeof(int*));
     for(int i=0;i<g->V;i++)
     {
-        g->Adj[i] = (int*)malloc(sizeof(g->V));
+        g->Adj[i] = (int*)malloc(g->V*sizeof(int));
     }
 
     //filling the adjacency matrix with 0
