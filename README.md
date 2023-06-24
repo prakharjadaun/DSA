@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 378</br>
+    <br>Count : 379</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -395,6 +395,7 @@
 - Compute the height of the binary tree using recursion.
 - Compute the height of the binary tree without recursion.
 - Number of leaf nodes in a binary tree.
+- [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
 - [PreOrder Traversal without recursion](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
 - [Level order traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)
 - [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/description/)
