@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 379</br>
+    <br>Count : 383</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -469,6 +469,11 @@
 
 <h2 align="center"><b>Dynamic Programming</b></h2>
 
+- Fibonacci Numbers
+  - Recursive approach
+  - Memoization approach
+  - Dynamic approach
+  - Space optimized approach
 - Catalan Numbers
   - Recursive approach  
   - DP approach
