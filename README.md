@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 387</br>
+    <br>Count : 388</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -401,6 +401,7 @@
 - [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/description/)
 - [Deepest Leave Sum](https://leetcode.com/problems/deepest-leaves-sum/description/)
 - [To sum tree](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1)
+- [Boundary Traversal](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/0)
   
 #### **Problems**
 
