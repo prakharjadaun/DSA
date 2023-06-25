@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 383</br>
+    <br>Count : 387</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -495,6 +495,11 @@
 - Longest Common Subsequence
   - [Min Insertions and deletions to make strings equal](https://www.geeksforgeeks.org/minimum-number-deletions-insertions-transform-one-string-another/)
   - [Longest Common subsequence - leetcode](https://leetcode.com/problems/longest-common-subsequence/description/)
+- [Frog Jump](https://www.codingninjas.com/codestudio/problem-details/frog-jump_3621012)
+  - Recursive approach
+  - Memoization approach
+  - Dynamic approach
+  - Space optimized approach
 
 #### **Problems**
 
