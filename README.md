@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 391</br>
+    <br>Count : 392</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -405,6 +405,7 @@
 - [Top view](https://www.codingninjas.com/codestudio/problems/top-view-of-the-tree_799401?leftPanelTab=0)
 - [Bottom View](https://www.codingninjas.com/codestudio/problems/bottom-view-of-binary-tree_893110?leftPanelTab=0)
 - [Diagonal traversal](https://www.codingninjas.com/studio/problems/diagonal-traversal-of-a-binary-tree_920477?leftPanelTab=0)
+- [Leaf at same level](https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1)
   
 #### **Problems**
 
