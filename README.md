@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 389</br>
+    <br>Count : 390</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -403,6 +403,7 @@
 - [To sum tree](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1)
 - [Boundary Traversal](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/0)
 - [Top view](https://www.codingninjas.com/codestudio/problems/top-view-of-the-tree_799401?leftPanelTab=0)
+- [Bottom View](https://www.codingninjas.com/codestudio/problems/bottom-view-of-binary-tree_893110?leftPanelTab=0)
   
 #### **Problems**
 
