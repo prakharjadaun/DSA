@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 393</br>
+    <br>Count : 394</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -537,3 +537,4 @@
 - [Divisor Game](https://leetcode.com/problems/divisor-game/description/)
 - [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/?envType=study-plan-v2&envId=top-interview-150)
 - [LRU Cache](https://leetcode.com/problems/lru-cache/description/?envType=study-plan-v2&envId=top-interview-150)
+- [First missing positive](https://leetcode.com/problems/first-missing-positive/description/)
