@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 392</br>
+    <br>Count : 393</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -337,6 +337,7 @@
 - Implement stack using a single queue.
 - Reverse individual words.
 - Next Greater Element
+- [Next Smaller Element](https://www.codingninjas.com/codestudio/problems/next-smaller-element_1112581?leftPanelTab=0)
 - Valid parenthesis
 - [Design a stack with increment operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/)
 - [Baseball game](https://leetcode.com/problems/baseball-game/description/)
