@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 394</br>
+    <br>Count : 395</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -253,6 +253,7 @@
 - [Copy Linked list with Random Head](https://leetcode.com/problems/copy-list-with-random-pointer/description/?envType=study-plan-v2&envId=top-interview-150)
 - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/?envType=study-plan-v2&envId=top-interview-150)
 - [Intersection of two linked list](https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)
+- [Remove nth node from the end of linked list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
 
 <h2 align="center"><b>Queue</b></h2>
 
