@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 397</br>
+    <br>Count : 398</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -384,6 +384,7 @@
 
 - [N Queens problem I](https://leetcode.com/problems/n-queens/description/)
 - [Combination sum](https://leetcode.com/problems/combination-sum/description/)
+- [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/description/)
 
 <h2 align="center"><b>Binary Tree</b></h2>
 
