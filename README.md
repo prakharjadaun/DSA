@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 395</br>
+    <br>Count : 396</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -467,6 +467,7 @@
 
 - Creation of adjacency matrix
 - Creation of adjacency list
+- Using adjacency list to store the weights
 - Tranpose of adjacency list
 - Breadth first search implementation using queue & adjacency matrix
 - Depth first search implementation using stack
