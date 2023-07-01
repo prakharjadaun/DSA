@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 396</br>
+    <br>Count : 397</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -474,6 +474,10 @@
 - BFS using adjacency list
 - DFS using adjacency list
 - [Prims Algo](https://www.codingninjas.com/codestudio/problem-details/prim-s-mst_1095633)
+
+#### **Problems**
+
+- Connected Components
 
 <h2 align="center"><b>Dynamic Programming</b></h2>
 
