@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 400</br>
+    <br>Count : 401</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
