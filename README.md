@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 402</br>
+    <br>Count : 403</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -482,6 +482,7 @@
 - [Number of provinces](https://leetcode.com/problems/number-of-provinces/description/)
 - [Number of islands](https://leetcode.com/problems/number-of-islands/description/)
 - [Flood Fill](https://leetcode.com/problems/flood-fill/description/)
+- [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 
 <h2 align="center"><b>Dynamic Programming</b></h2>
 
