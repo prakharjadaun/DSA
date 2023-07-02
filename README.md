@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 399</br>
+    <br>Count : 400</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -480,6 +480,7 @@
 
 - Connected Components
 - [Number of provinces](https://leetcode.com/problems/number-of-provinces/description/)
+- [Number of islands](https://leetcode.com/problems/number-of-islands/description/)
 
 <h2 align="center"><b>Dynamic Programming</b></h2>
 
