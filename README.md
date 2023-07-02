@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 403</br>
+    <br>Count : 404</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -483,6 +483,7 @@
 - [Number of islands](https://leetcode.com/problems/number-of-islands/description/)
 - [Flood Fill](https://leetcode.com/problems/flood-fill/description/)
 - [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/description/)
+- [Detect a cycle in undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
 
 <h2 align="center"><b>Dynamic Programming</b></h2>
 
