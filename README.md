@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 404</br>
+    <br>Count : 406</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -185,6 +185,7 @@
 - [Count pairs of similar strings](https://leetcode.com/problems/count-pairs-of-similar-strings/description/)
 - [Add string](https://leetcode.com/problems/add-strings/description/)
 - [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150)
+- [Buddy Strings](https://leetcode.com/problems/buddy-strings/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
@@ -484,6 +485,7 @@
 - [Flood Fill](https://leetcode.com/problems/flood-fill/description/)
 - [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 - [Detect a cycle in undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
+- [01 Matrix (distance to nearest 0)](https://leetcode.com/problems/01-matrix/description/)
 
 <h2 align="center"><b>Dynamic Programming</b></h2>
 
