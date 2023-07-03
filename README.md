@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 408</br>
+    <br>Count : 409</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -488,6 +488,7 @@
 - [01 Matrix (distance to nearest 0)](https://leetcode.com/problems/01-matrix/description/)
 - [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)
 - [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/)
+- [Number of unique islands](https://practice.geeksforgeeks.org/problems/number-of-distinct-islands/1)
 
 <h2 align="center"><b>Dynamic Programming</b></h2>
 
