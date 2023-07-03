@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 407</br>
+    <br>Count : 408</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -487,6 +487,7 @@
 - [Detect a cycle in undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
 - [01 Matrix (distance to nearest 0)](https://leetcode.com/problems/01-matrix/description/)
 - [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)
+- [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/)
 
 <h2 align="center"><b>Dynamic Programming</b></h2>
 
