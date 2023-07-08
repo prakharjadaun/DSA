@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 418</br>
+    <br>Count : 419</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -496,6 +496,7 @@
 - [Eventual Safe State](https://practice.geeksforgeeks.org/problems/eventual-safe-states/1)
 - [Topological Sort Using DFS](https://practice.geeksforgeeks.org/problems/topological-sort/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
 - [Topological Sort using Kahns Algo (BFS)](https://practice.geeksforgeeks.org/problems/topological-sort/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
+- [Course Schedule (Topological Sort)](https://leetcode.com/problems/course-schedule/description/)
 
 <h2 align="center"><b>Dynamic Programming</b></h2>
 
