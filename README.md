@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 416</br>
+    <br>Count : 417</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -479,7 +479,6 @@
 - DFS using adjacency list
 - [Prims Algo](https://www.codingninjas.com/codestudio/problem-details/prim-s-mst_1095633)
 - [Detect Cycle in directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
-- [Eventual Safe State](https://practice.geeksforgeeks.org/problems/eventual-safe-states/1)
 
 #### **Problems**
 
@@ -493,6 +492,9 @@
 - [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)
 - [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/)
 - [Number of unique islands](https://practice.geeksforgeeks.org/problems/number-of-distinct-islands/1)
+- [Eventual Safe State](https://practice.geeksforgeeks.org/problems/eventual-safe-states/1)
+- [Topological Sort Using DFS](https://practice.geeksforgeeks.org/problems/topological-sort/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
+- [Topological Sort using Kahns Algo (BFS)](https://practice.geeksforgeeks.org/problems/topological-sort/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
 
 <h2 align="center"><b>Dynamic Programming</b></h2>
 
