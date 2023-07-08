@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 412</br>
+    <br>Count : 413</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -532,6 +532,7 @@
 - [Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
 - [Jump Game](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150)
 - [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/?envType=study-plan-v2&envId=top-interview-150)
+- [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/description/)
 
 <h2 align="center"><b>Favorites</b></h2>
 
