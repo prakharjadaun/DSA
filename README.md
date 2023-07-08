@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 417</br>
+    <br>Count : 418</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -479,6 +479,7 @@
 - DFS using adjacency list
 - [Prims Algo](https://www.codingninjas.com/codestudio/problem-details/prim-s-mst_1095633)
 - [Detect Cycle in directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
+- [Detect Cycle in directed graph (Using Topological Sort)](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
 
 #### **Problems**
 
