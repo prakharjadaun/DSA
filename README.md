@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 423</br>
+    <br>Count : 424</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -443,6 +443,7 @@
 - [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/?envType=study-plan-v2&envId=top-interview-150)
 - [Sum of left leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)
 - [Binary Trees Max Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
+- [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 
 <h2 align="center"><b>Binary Search Tree</b></h2>
 
