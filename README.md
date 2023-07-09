@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 421</br>
+    <br>Count : 422</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -499,6 +499,7 @@
 - [Course Schedule (Topological Sort)](https://leetcode.com/problems/course-schedule/description/)
 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
 - [Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1)
+- [Shortest Path in Direct Acyclic Graph(toposort approach)](https://practice.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1)
 
 <h2 align="center"><b>Dynamic Programming</b></h2>
 
