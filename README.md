@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 426</br>
+    <br>Count : 427</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -386,6 +386,7 @@
 - [N Queens problem I](https://leetcode.com/problems/n-queens/description/)
 - [Combination sum](https://leetcode.com/problems/combination-sum/description/)
 - [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/description/)
+- [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
 
 <h2 align="center"><b>Backtracking</b></h2>
 
