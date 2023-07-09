@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 424</br>
+    <br>Count : 426</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -386,6 +386,13 @@
 - [N Queens problem I](https://leetcode.com/problems/n-queens/description/)
 - [Combination sum](https://leetcode.com/problems/combination-sum/description/)
 - [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/description/)
+
+<h2 align="center"><b>Backtracking</b></h2>
+
+#### **Problems**
+
+- Max Num Of Requests
+- [Letter combination of phone numbers](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
 
 <h2 align="center"><b>Binary Tree</b></h2>
 
