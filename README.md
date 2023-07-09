@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 420</br>
+    <br>Count : 421</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -498,6 +498,7 @@
 - [Topological Sort using Kahns Algo (BFS)](https://practice.geeksforgeeks.org/problems/topological-sort/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
 - [Course Schedule (Topological Sort)](https://leetcode.com/problems/course-schedule/description/)
 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
+- [Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1)
 
 <h2 align="center"><b>Dynamic Programming</b></h2>
 
