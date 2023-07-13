@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 435</br>
+    <br>Count : 436</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -518,6 +518,7 @@
 - [Shortest Path in Direct Acyclic Graph(toposort approach)](https://practice.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1)
 - [All path from source](https://leetcode.com/problems/all-paths-from-source-to-target/description/)
 - [Can Visit All Rooms](https://leetcode.com/problems/keys-and-rooms/description/)
+- [Word Search](https://leetcode.com/problems/word-search/description/)
 
 <h2 align="center"><b>Dynamic Programming</b></h2>
 
