@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 432</br>
+    <br>Count : 433</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -394,6 +394,7 @@
 
 - Max Num Of Requests
 - [Letter combination of phone numbers](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+- [Combinations](https://leetcode.com/problems/combinations/description/)
 
 <h2 align="center"><b>Binary Tree</b></h2>
 
