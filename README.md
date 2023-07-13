@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 433</br>
+    <br>Count : 434</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -584,3 +584,4 @@
 - [LRU Cache](https://leetcode.com/problems/lru-cache/description/?envType=study-plan-v2&envId=top-interview-150)
 - [First missing positive](https://leetcode.com/problems/first-missing-positive/description/)
 - [Frequency of limited range elements](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1)
+- [wo Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
