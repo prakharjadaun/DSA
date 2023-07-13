@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 429</br>
+    <br>Count : 430</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -492,6 +492,7 @@
 - [Prims Algo](https://www.codingninjas.com/codestudio/problem-details/prim-s-mst_1095633)
 - [Detect Cycle in directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
 - [Detect Cycle in directed graph (Using Topological Sort)](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
+- [Find the center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)
 
 #### **Problems**
 
