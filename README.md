@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 434</br>
+    <br>Count : 435</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -324,6 +324,7 @@
 - [Distribute candies](https://leetcode.com/problems/distribute-candies/description/)
 - [Smallest number in infinite set](https://leetcode.com/problems/smallest-number-in-infinite-set/description/)
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/?envType=study-plan-v2&envId=top-interview-150)
+- [Insert delete get random in O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)
 
 <h2 align="center"><b>Stack</b></h2>
 
