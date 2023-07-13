@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 430</br>
+    <br>Count : 431</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -513,6 +513,7 @@
 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
 - [Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1)
 - [Shortest Path in Direct Acyclic Graph(toposort approach)](https://practice.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1)
+- [All path from source](https://leetcode.com/problems/all-paths-from-source-to-target/description/)
 
 <h2 align="center"><b>Dynamic Programming</b></h2>
 
