@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 439</br>
+    <br>Count : 440</br>
 </p>
 
 <h2 align="center"><b>Arrays</b></h2>
@@ -591,3 +591,4 @@
 - [First missing positive](https://leetcode.com/problems/first-missing-positive/description/)
 - [Frequency of limited range elements](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1)
 - [wo Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+- [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)
