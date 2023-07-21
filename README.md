@@ -25,9 +25,14 @@
     <a href="#Dynamic-Programming">Dynamic Programming</a>
 </p>
 <p align="center">
+    <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 440</br>
+    <br>Count : 441</br>
 </p>
+
+<h2 align="center"><b>Numbers</b></h2>
+
+- [Ugly Numbers](https://leetcode.com/problems/ugly-number/description/)
 
 <h2 align="center"><b>Arrays</b></h2>
 
