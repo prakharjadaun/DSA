@@ -27,12 +27,13 @@
 <p align="center">
     <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 442</br>
+    <br>Count : 443</br>
 </p>
 
 <h2 align="center"><b>Numbers</b></h2>
 
 - [Ugly Numbers](https://leetcode.com/problems/ugly-number/description/)
+- [Power of x^n](https://leetcode.com/problems/powx-n/)
 
 <h2 align="center"><b>Arrays</b></h2>
 
