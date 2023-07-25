@@ -27,7 +27,7 @@
 <p align="center">
     <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 445</br>
+    <br>Count : 446</br>
 </p>
 
 <h2 align="center"><b>Numbers</b></h2>
@@ -358,6 +358,7 @@
 - [Baseball game](https://leetcode.com/problems/baseball-game/description/)
 - [Min stack](https://leetcode.com/problems/min-stack/description/)
 - [Removing stars from a string](https://leetcode.com/problems/removing-stars-from-a-string/description/)
+- [Simply Path](https://leetcode.com/problems/simplify-path/description/?envType=study-plan-v2&envId=top-interview-150)
 
 <h2 align="center"><b>Sorting</b></h2>
 
