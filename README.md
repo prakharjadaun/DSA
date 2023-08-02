@@ -36,6 +36,7 @@
 - [Power of x^n](https://leetcode.com/problems/powx-n/)
 - [Insert Interval](https://leetcode.com/problems/insert-interval/description/?envType=study-plan-v2&envId=top-interview-150)
 - [Minimum number of arrows to burst balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/?envType=study-plan-v2&envId=top-interview-150)
+- [Max points on a line](https://leetcode.com/problems/max-points-on-a-line/description/?envType=study-plan-v2&envId=top-interview-150)
 
 <h2 align="center"><b>Arrays</b></h2>
 
