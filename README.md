@@ -27,7 +27,7 @@
 <p align="center">
     <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 448</br>
+    <br>Count : 449</br>
 </p>
 
 <h2 align="center"><b>Numbers</b></h2>
@@ -46,6 +46,7 @@
 - Maximum and minimum element in the array.
 - Kth Smallest Element of Array
 - Sort an array of 0s, 1s and 2s
+- Sort an array of 0s, 1s and 2s (two pointer approach)
 - Move all negative numbers to beginning and positive to end.
 - Find the count of union of the two arrays
 - Rotate an array by 1 in the clockwise direction
