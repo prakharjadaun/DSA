@@ -27,7 +27,7 @@
 <p align="center">
     <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 449</br>
+    <br>Count : 451</br>
 </p>
 
 <h2 align="center"><b>Numbers</b></h2>
@@ -134,6 +134,8 @@
 - [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/)
 - [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/description/)
 - [Successful pairs of potions and spells](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/)
+- [Valid mountain array](https://leetcode.com/problems/valid-mountain-array/)
+- [Longest mountain array](https://leetcode.com/problems/longest-mountain-in-array/description/)
 
 #### **Matrix**
 
