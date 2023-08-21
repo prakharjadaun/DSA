@@ -27,7 +27,7 @@
 <p align="center">
     <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 451</br>
+    <br>Count : 452</br>
 </p>
 
 <h2 align="center"><b>Numbers</b></h2>
@@ -365,6 +365,7 @@
 - [Removing stars from a string](https://leetcode.com/problems/removing-stars-from-a-string/description/)
 - [Simply Path](https://leetcode.com/problems/simplify-path/description/?envType=study-plan-v2&envId=top-interview-150)
 - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/?envType=study-plan-v2&envId=top-interview-150)
+- [Remove outer parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)
 
 <h2 align="center"><b>Sorting</b></h2>
 
