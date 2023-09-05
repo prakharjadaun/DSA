@@ -27,7 +27,7 @@
 <p align="center">
     <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 454</br>
+    <br>Count : 455</br>
 </p>
 
 <h2 align="center"><b>Numbers</b></h2>
@@ -379,6 +379,7 @@
 
 - [Smaller number than current](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
 - [H index](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150)
+- [Count Inversions (Merge Sort)](https://www.codingninjas.com/studio/problems/count-inversions_615?leftPanelTab=0)
 
 </details>
 
