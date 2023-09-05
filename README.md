@@ -27,7 +27,7 @@
 <p align="center">
     <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 455</br>
+    <br>Count : 456</br>
 </p>
 
 <h2 align="center"><b>Numbers</b></h2>
@@ -374,6 +374,7 @@
 - Bubble Sort
 - Insertion Sort
 - Heap Sort
+- [Merge Sort](https://www.codingninjas.com/studio/problems/merge-sort_920442)
 
 #### **Problems**
 
