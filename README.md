@@ -27,7 +27,7 @@
 <p align="center">
     <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 459</br>
+    <br>Count : 460</br>
 </p>
 
 <h2 align="center"><b>Numbers</b></h2>
@@ -521,6 +521,7 @@
 - [Detect Cycle in directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
 - [Detect Cycle in directed graph (Using Topological Sort)](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
 - [Find the center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)
+- [Dijsktra Algo using priority queue](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
 
 #### **Problems**
 
