@@ -5,6 +5,12 @@ using namespace std;
 class Solution
 {
 	public:
+    //Dijsktra Also: used to find the shortest distance of all nodes from a source
+    //it do not work with negative weights
+    //when negative weights come into picture it keeps on updating the weights because everytime you compare the current weight with the adj node weight, it keeps on reducing
+
+    //solution: bellmanford algo handles well the case of negative weights
+    
 	//Function to find the shortest distance of all the vertices
     //from the source vertex S.
     vector <int> dijkstra(int V, vector<vector<int>> adj[], int S)
