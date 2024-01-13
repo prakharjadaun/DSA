@@ -27,7 +27,7 @@
 <p align="center">
     <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 458</br>
+    <br>Count : 459</br>
 </p>
 
 <h2 align="center"><b>Numbers</b></h2>
@@ -545,6 +545,7 @@
 - [All path from source](https://leetcode.com/problems/all-paths-from-source-to-target/description/)
 - [Can Visit All Rooms](https://leetcode.com/problems/keys-and-rooms/description/)
 - [Word Search](https://leetcode.com/problems/word-search/description/)
+- [Word Ladder](https://leetcode.com/problems/word-ladder/)
 
 <h2 align="center"><b>Dynamic Programming</b></h2>
 
