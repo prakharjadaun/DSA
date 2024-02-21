@@ -27,7 +27,7 @@
 <p align="center">
     <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 464</br>
+    <br>Count : 465</br>
 </p>
 
 <h2 align="center"><b>Numbers</b></h2>
@@ -273,6 +273,7 @@
 - [Reverse List in K Groups](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/?envType=study-plan-v2&envId=top-interview-150)
 - [Flatten a multilevel doubly linked list](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/)
 - [Next Greater Node in the Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/description/)
+- [Double a number represented by a linked list](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/)
 
 <h2 align="center"><b>Queue</b></h2>
 
