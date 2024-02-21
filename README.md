@@ -27,7 +27,7 @@
 <p align="center">
     <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 462</br>
+    <br>Count : 463</br>
 </p>
 
 <h2 align="center"><b>Numbers</b></h2>
@@ -285,6 +285,7 @@
 #### **Problems**
 
 - [Kth Smallest element in a matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)
+- [Design a circular queue](https://leetcode.com/problems/design-circular-deque/)
 
 </details>
 
