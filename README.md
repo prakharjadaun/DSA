@@ -27,7 +27,7 @@
 <p align="center">
     <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 463</br>
+    <br>Count : 464</br>
 </p>
 
 <h2 align="center"><b>Numbers</b></h2>
@@ -272,6 +272,7 @@
 - [Remove nth node from the end of linked list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
 - [Reverse List in K Groups](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/?envType=study-plan-v2&envId=top-interview-150)
 - [Flatten a multilevel doubly linked list](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/)
+- [Next Greater Node in the Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/description/)
 
 <h2 align="center"><b>Queue</b></h2>
 
