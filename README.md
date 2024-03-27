@@ -27,7 +27,7 @@
 <p align="center">
     <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 466</br>
+    <br>Count : 467</br>
 </p>
 
 <h2 align="center"><b>Numbers</b></h2>
@@ -528,6 +528,7 @@
 - [Dijsktra Algo using priority queue](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
 - [Dijsktra Algo using set](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
 - [Bellman ford algo](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1)
+- [Floyd warshall algo](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1)
 
 #### **Problems**
 
