@@ -27,7 +27,7 @@
 <p align="center">
     <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 467</br>
+    <br>Count : 468</br>
 </p>
 
 <h2 align="center"><b>Numbers</b></h2>
@@ -145,6 +145,7 @@
 - [Reshape the matrix](https://leetcode.com/problems/reshape-the-matrix/description/)
 - [Search in a matrix](https://leetcode.com/problems/search-a-2d-matrix/description/?envType=study-plan-v2&envId=top-interview-150)
 - [Is Valid Sudoku](https://leetcode.com/problems/valid-sudoku/submissions/?envType=study-plan-v2&envId=top-interview-150)
+- [Sort the matrix diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/description/)
 
 <h2 align="center"><b>Strings</b></h2>
 
