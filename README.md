@@ -27,7 +27,7 @@
 <p align="center">
     <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 468</br>
+    <br>Count : 469</br>
 </p>
 
 <h2 align="center"><b>Numbers</b></h2>
@@ -202,6 +202,7 @@
 - [Add string](https://leetcode.com/problems/add-strings/description/)
 - [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150)
 - [Buddy Strings](https://leetcode.com/problems/buddy-strings/description/)
+- [Bulls and cows](https://leetcode.com/problems/bulls-and-cows/description/)
 
 <h2 align="center"><b>Bitwise Operations</b></h2>
 
