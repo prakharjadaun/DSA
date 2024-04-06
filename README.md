@@ -27,7 +27,7 @@
 <p align="center">
     <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 469</br>
+    <br>Count : 470</br>
 </p>
 
 <h2 align="center"><b>Numbers</b></h2>
@@ -365,6 +365,7 @@
 - Next Greater Element
 - [Next Smaller Element](https://www.codingninjas.com/codestudio/problems/next-smaller-element_1112581?leftPanelTab=0)
 - Valid parenthesis
+- [Minimum remove to make valid parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/?envType=daily-question&envId=2024-04-06)
 - [Design a stack with increment operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/)
 - [Baseball game](https://leetcode.com/problems/baseball-game/description/)
 - [Min stack](https://leetcode.com/problems/min-stack/description/)
