@@ -27,7 +27,7 @@
 <p align="center">
     <a href="#Numbers">Numbers</a> •
     <a href="#Favorites"><b>Favorites</b></a>
-    <br>Count : 470</br>
+    <br>Count : 471</br>
 </p>
 
 <h2 align="center"><b>Numbers</b></h2>
@@ -489,6 +489,7 @@
 - [Minimum Depth of binary tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
 - [All nodes distance k in binary tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
 - [Count complete tree nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/?envType=study-plan-v2&envId=top-interview-150)
+- [Count Nodes Equal to Average of subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/)
 
 <h2 align="center"><b>Binary Search Tree</b></h2>
 
